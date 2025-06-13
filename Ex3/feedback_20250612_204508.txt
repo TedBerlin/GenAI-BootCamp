@@ -1,0 +1,12 @@
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Ex3/Day4.ipynb
+suggestions for improvement:
+- The provided code snippets are not related to the exercises described in the Chapter Content/Questions.  They demonstrate basic class inheritance and method overriding in Python, but they don't address the tasks involving `Pets`, `Cat`, `Siamese`, `Dog`, or `PetDog` classes.
+- The code should be restructured to address the exercises outlined in the document. This includes creating the specified classes, implementing their methods, and testing the functionality as described in the instructions.
+- Add comments to explain the purpose of each class and method for better readability.
+Correctness: 0%
+-----
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Ex3/dog.py
+suggestions for improvement:
+- Checker failed to provide a response.
+Correctness: N/A%
+-----
