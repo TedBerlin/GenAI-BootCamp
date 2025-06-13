@@ -1,0 +1,11 @@
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/W1_D3/OOP_XP.ipynb
+suggestions for improvement:
+- In `find_oldest_cat`, using a more Pythonic approach like `max()` with a key function would improve readability and efficiency.
+- Add docstrings to all functions to improve code readability and understanding.
+- In Exercise 2, consider using a more descriptive name for the `height` attribute, like `height_cm`.
+- The `Dog` class's `__gt__`, `__lt__`, and `__eq__` methods could be consolidated into a single comparison method for better code organization.
+- In Exercise 4, error handling could be improved. For example, check for empty input in `add_animal`, `sell_animal`, and `sort_animals`.
+- For Exercise 4, consider using a more efficient data structure for `animal_groups` if the zoo has a very large number of animals. A list comprehension might make the code in `sort_animals` more concise.
+- The variable names in Exercise 4 could be more descriptive (e.g., `zoo_animals` instead of `animals`).
+Correctness: 100%
+-----
