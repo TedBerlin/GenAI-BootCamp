@@ -1,0 +1,15 @@
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/XP/game.py
+suggestions for improvement:
+- The `rock-paper-scissors.py` file is missing, which is a crucial part of the project as outlined in the instructions.  The provided code only implements the `game.py` portion.
+- The `play()` method in the `Game` class should return a string in the format 'win;draw;loss', as specified in the instructions. Currently, it returns only 'win', 'loss', or 'draw'.
+- Add more comprehensive error handling and input validation in `rock-paper-scissors.py` (when it's implemented) to ensure robustness.
+- Consider adding comments to clarify the purpose of each function and block of code in both `game.py` and `rock-paper-scissors.py` for better readability.
+Correctness: 95%
+-----
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/XP/rock-paper-scissors.py
+suggestions for improvement:
+- The `main()` function could be improved by separating the game loop from the menu handling and result processing. This would enhance modularity and readability.
+- The `print_results` function should handle the case where no games have been played to avoid errors.
+- Add more comprehensive error handling for user input, especially in the `get_user_menu_choice()` function. Consider handling potential exceptions during file operations (if any).
+Correctness: 90%
+-----
