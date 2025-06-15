@@ -1,0 +1,14 @@
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Ex3/XP_W2_D4.ipynb
+suggestions for improvement:
+- Exercise 1: The solution correctly implements the `Siamese` class, inheriting from `Cat` and adding specific attributes/methods.  The creation of cat instances and the `Pets` class usage are also correctly implemented. However, the instructions ask to add a specific attribute or method to the Siamese class; although this is done, it is not explicitly stated in the instructions what to add, leaving the student somewhat lost.  More guidance would improve the exercise. 
+- Exercise 2: The `Dog` class is correctly implemented with the required methods. The fight method's logic determining the winner is sound. The code demonstrates class instantiation and method calling, aligned with the exercise goals.
+- Exercise 3: The `PetDog` class correctly inherits from `Dog` using `super()`. The `train()`, `play()`, and `do_a_trick()` methods are functional and utilize `*args` and the `random` module as intended. The use of `if self.trained:` to handle the case of untrained dogs is also appropriate. The code effectively demonstrates inheritance and the use of the `super()` function.
+- Exercise 4: The `Person` and `Family` classes are correctly implemented, fulfilling all requirements. The `born()`, `check_majority()`, and `family_presentation()` methods function as expected.  The code effectively demonstrates object interaction and conditional logic, adhering to the exercise's objectives. There is a lack of error handling. For example, it does not account for edge cases, like trying to check the majority status of a non-existent person. This should be addressed.
+Correctness: 80%
+-----
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Ex3/dog.py
+suggestions for improvement:
+- The code could include more comprehensive error handling. For instance, it might check for zero or negative values for age and weight to prevent division by zero errors in `run_speed()`.
+- Adding docstrings to the methods would improve readability and understanding.
+Correctness: 100%
+-----
