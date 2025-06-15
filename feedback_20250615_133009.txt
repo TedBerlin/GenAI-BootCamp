@@ -1,0 +1,10 @@
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Week+1/Day5/XP/game.py
+suggestions for improvement:
+- Failed to download file - Status: 404
+Correctness: N/A%
+-----
+URL: URL: https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Week+1/Day5/XP/rock-paper-scissors.py
+suggestions for improvement:
+- Failed to download file - Status: 404
+Correctness: N/A%
+-----
