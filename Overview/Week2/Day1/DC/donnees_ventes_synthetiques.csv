@@ -1,0 +1,1001 @@
+ID_Transaction,Produit,Categorie,Prix_Unitaire,Quantite,Montant_Total,Date_Vente,Moyen_Paiement,Age_Client,Genre_Client,Ville_Client
+658216,Crainte,Vêtements,475.6,3,1426.8,2025-04-06,Espèces,23,M,Saint Antoine
+58736279,Plusieurs,Vêtements,170.19,4,680.76,2024-09-25,Espèces,56,M,Noël
+6006980,Ensuite,Loisirs,417.06,2,834.12,2024-07-19,Carte,35,M,Morvan
+48126063,Attirer,Electronique,730.52,3,2191.56,2024-09-23,Carte,30,F,Lagarde
+47832475,Sérieux,Electronique,389.33,4,1557.32,2025-05-08,Carte,39,F,Saint ChristelleVille
+72560298,Île,Electronique,707.08,2,1414.16,2024-10-02,Espèces,43,M,Brun
+34995069,Obliger,Electronique,515.55,3,1546.65,2024-09-09,Carte,46,M,Normand
+19236920,Taille,Vêtements,95.21,4,380.84,2025-04-02,Carte,38,F,Bernard
+56576396,Abattre,Vêtements,96.5,3,289.5,2024-09-14,Espèces,18,F,Boucher
+51027820,Grave,Alimentation,166.64,2,333.28,2024-09-13,Carte,24,M,Besson
+37448869,Retourner,Vêtements,197.4,2,394.8,2025-05-13,Carte,39,F,Le Goff
+1002747,Brusquement,Electronique,227.49,1,227.49,2025-04-23,Carte,35,F,Camus-les-Bains
+53449837,Idée,Maison,103.36,4,413.44,2024-08-31,Carte,41,F,Neveudan
+20170983,Nommer,Alimentation,463.52,2,927.04,2025-05-22,Carte,25,F,Marion-sur-Vaillant
+63470086,Mariage,Alimentation,168.79,4,675.16,2024-08-23,Carte,47,F,Blondel-les-Bains
+57417772,Bien,Electronique,424.23,3,1272.69,2024-10-21,Carte,47,F,Schneider
+18055057,Notre,Maison,282.83,3,848.49,2024-07-28,Carte,33,M,Sainte Hugues
+67035822,Emporter,Maison,240.31,1,240.31,2025-05-02,Carte,25,F,Guilbert-sur-Payet
+61580840,Hors,Electronique,312.21,3,936.63,2025-02-15,Carte,36,F,FleuryBourg
+24250333,Pluie,Maison,314.06,2,628.12,2024-08-28,Carte,41,F,Brun-sur-Perrier
+88503034,Prononcer,Maison,97.35,2,194.7,2024-10-08,Espèces,27,M,Techer-sur-Boulanger
+80593175,Or,Loisirs,139.71,3,419.13,2024-10-19,Carte,31,F,Charrier
+22885032,Voix,Maison,8.44,4,33.76,2025-03-06,Carte,54,M,DurandVille
+40052388,Mieux,Electronique,132.45,8,1059.6,2024-12-02,Carte,33,F,LaurentBourg
+53980112,Frère,Vêtements,486.03,4,1944.12,2024-08-19,Carte,45,M,Schmitt
+59900248,Passage,Loisirs,137.06,2,274.12,2024-07-16,Carte,45,M,Lelièvre
+49245207,Résistance,Electronique,681.88,3,2045.64,2025-02-05,Carte,18,F,BaillyBourg
+51172099,Voisin,Alimentation,45.02,8,360.16,2024-12-31,Carte,49,F,Pires
+45944796,Car,Vêtements,317.99,2,635.98,2025-01-30,Carte,40,M,Fischer
+60887780,Inviter,Vêtements,349.43,3,1048.29,2025-04-28,Carte,40,F,Mallet-sur-Lévy
+33440839,Énorme,Electronique,387.74,3,1163.22,2025-04-06,Carte,39,F,Gilbertboeuf
+65297726,Enfance,Alimentation,368.93,2,737.86,2024-07-04,PayPal,18,F,Pasquierboeuf
+36479289,Suivre,Electronique,497.54,2,995.08,2024-06-20,PayPal,18,F,Bertrand
+95252890,Papa,Loisirs,281.36,4,1125.44,2024-06-25,Carte,36,M,Pelletier-les-Bains
+62965796,Masse,Vêtements,364.35,3,1093.05,2024-09-13,Espèces,44,F,Sauvage
+35279313,Attention,Loisirs,393.74,4,1574.96,2025-01-28,Carte,32,M,Saint InèsBourg
+53164769,Horizon,Electronique,500.14,1,500.14,2024-07-07,Carte,33,M,Lefebvre-la-Forêt
+82631901,Dix,Loisirs,92.08,4,368.32,2025-03-30,Carte,18,M,Arnaud
+43524085,Présent,Alimentation,326.57,6,1959.42,2024-12-18,Espèces,39,F,Duval
+38614897,Cinquante,Alimentation,128.98,2,257.96,2025-01-09,PayPal,18,M,RenaultBourg
+38290800,Droit,Maison,317.41,2,634.82,2024-07-09,Carte,48,F,Saint Henri
+77966101,Maladie,Electronique,378.15,4,1512.6,2025-02-21,Carte,46,F,Colin
+77044739,Pourtant,Electronique,705.8,1,705.8,2024-11-24,Carte,38,F,Legrand-sur-Barthelemy
+78253341,Victime,Vêtements,278.62,3,835.86,2025-05-01,PayPal,40,F,Bodin-la-Forêt
+83505626,Hôtel,Electronique,293.43,3,880.29,2025-03-14,Carte,18,M,Briand-sur-Roche
+80496977,Tôt,Maison,465.36,2,930.72,2024-11-08,Carte,32,F,Lecomte-sur-Raynaud
+57108825,Officier,Loisirs,74.34,3,223.02,2025-01-16,Carte,43,M,Baron
+74037309,Madame,Alimentation,278.65,2,557.3,2024-08-17,Espèces,30,F,Alexandre-sur-Vallée
+43534042,Certes,Maison,457.05,2,914.1,2024-10-05,Carte,23,M,Jacquot
+92516851,Flamme,Vêtements,30.13,3,90.39,2025-03-06,Carte,39,M,Saint Patrick
+80123071,Blond,Electronique,436.88,2,873.76,2024-06-22,Carte,36,M,Brunel
+6073756,Accepter,Electronique,232.68,3,698.04,2025-02-15,Carte,36,F,Bouvierdan
+66323527,Planche,Maison,111.83,1,111.83,2025-04-06,Carte,31,M,Michel
+45064879,Être,Alimentation,73.48,4,293.92,2024-07-03,PayPal,39,F,Rousset
+65898808,Avant,Vêtements,398.62,3,1195.86,2025-06-12,Carte,26,M,Gimeneznec
+71720444,Mince,Electronique,325.53,4,1302.12,2025-02-05,Carte,43,M,Sainte Philippe
+46545981,Venir,Electronique,193.3,2,386.6,2025-05-31,Carte,37,F,François-sur-Mer
+15854335,Désert,Vêtements,366.37,6,2198.22,2024-12-26,Carte,57,M,Diallo-sur-Guillot
+76942785,Intelligence,Maison,12.12,2,24.24,2025-03-06,Carte,32,F,Sainte ÉlodieBourg
+8841199,Léger,Electronique,20.24,4,80.96,2024-12-15,Carte,28,F,Maurice
+74101391,Figure,Electronique,329.64,3,988.92,2025-03-29,Carte,35,F,Bourgeois
+22387860,Mur,Alimentation,309.85,4,1239.4,2024-08-11,Carte,42,M,Chauvinnec
+81352203,Accorder,Alimentation,470.41,4,1881.64,2024-11-05,Carte,24,F,Julien-sur-Rossi
+93809096,Ennemi,Maison,314.84,2,629.68,2024-12-11,PayPal,37,F,Lenoirdan
+16808672,Rencontrer,Electronique,59.0,6,354.0,2024-12-04,Carte,36,M,Saint Mathilde
+16337367,Agent,Alimentation,195.77,2,391.54,2024-10-16,Carte,30,F,Saint Roland
+93605854,Côté,Electronique,95.24,1,95.24,2024-10-13,Carte,39,F,Bodin-sur-Pages
+30633605,Forêt,Vêtements,286.42,3,859.26,2024-09-25,PayPal,34,M,Bernier
+5467924,Noir,Vêtements,389.32,4,1557.28,2025-03-16,Espèces,19,F,Sainte Robert
+97738528,Secrétaire,Alimentation,122.93,2,245.86,2025-01-31,PayPal,38,F,Mauriceboeuf
+51218522,Aucun,Maison,163.42,3,490.26,2025-01-10,Carte,30,F,Sainte Camilleboeuf
+93493835,Étouffer,Alimentation,243.85,2,487.7,2025-06-14,Carte,44,M,Saint Jacquesdan
+65506662,Importer,Electronique,251.54,3,754.62,2025-03-27,Carte,53,F,Garnier-sur-Mer
+85900455,Cou,Alimentation,419.3,1,419.3,2024-11-20,Carte,39,M,Leclerc
+90278689,Subir,Alimentation,41.02,2,82.04,2024-09-24,Espèces,35,M,Sainte Céline
+50719103,Cacher,Alimentation,432.25,2,864.5,2024-07-21,Espèces,23,F,Samson-la-Forêt
+88224515,Doucement,Loisirs,377.92,2,755.84,2024-08-11,Espèces,18,F,Labbénec
+32486059,Confier,Electronique,252.72,2,505.44,2025-06-06,Carte,31,M,Sanchez
+79038881,Quinze,Vêtements,32.87,4,131.48,2025-02-25,Espèces,40,F,Gimenez
+67808907,Doucement,Electronique,304.67,4,1218.68,2024-10-05,Carte,42,F,Marie
+41976366,Résistance,Electronique,722.7,4,2890.8,2025-01-28,PayPal,18,M,Sauvage-la-Forêt
+7972257,Vieux,Loisirs,459.96,4,1839.84,2024-10-04,Carte,40,F,Maurice
+39058551,Arrêter,Vêtements,316.55,2,633.1,2025-05-23,Carte,49,F,Sainte Rémy
+32153080,Groupe,Loisirs,33.64,2,67.28,2024-07-12,Carte,27,F,Meunier-sur-Joly
+1040635,Nord,Electronique,147.18,2,294.36,2024-09-03,Carte,27,M,Lamy
+67679822,Précieux,Electronique,344.02,3,1032.06,2025-05-20,Carte,26,M,Sainte Anaïs-la-Forêt
+89474966,Arrêter,Maison,343.94,1,343.94,2024-08-12,Carte,51,F,Sainte Martin
+27255168,Savoir,Electronique,658.42,3,1975.26,2024-10-12,Carte,18,M,Sainte Julien
+29816959,Planche,Vêtements,406.22,4,1624.88,2024-10-16,PayPal,48,M,Sainte Clémenceboeuf
+31711262,Résister,Maison,286.7,1,286.7,2025-05-16,Carte,28,M,Hoareau
+26239255,Problème,Electronique,49.36,2,98.72,2025-02-10,Carte,51,F,Pasquier
+93548044,Trop,Alimentation,364.43,2,728.86,2024-09-27,Espèces,37,M,Saint Aurore
+44785862,Oreille,Vêtements,68.93,3,206.79,2025-05-13,Carte,38,F,Schmitt
+6774347,En,Electronique,206.98,3,620.94,2025-01-15,Carte,32,F,Brunet-la-Forêt
+47068590,Force,Maison,262.48,4,1049.92,2025-06-13,Espèces,39,F,Hervé
+39343410,Non,Vêtements,393.41,2,786.82,2024-07-06,Espèces,48,M,Sainte Antoinette
+90229917,Fermer,Electronique,18.3,2,36.6,2025-02-17,Carte,43,M,VerdierVille
+97329923,Désigner,Alimentation,275.99,1,275.99,2024-08-26,Espèces,55,M,Sainte Audrey
+45576162,Homme,Alimentation,431.87,1,431.87,2024-07-01,Espèces,47,F,Pons
+73124581,Rocher,Electronique,41.55,2,83.1,2024-10-03,Carte,33,M,Dufournec
+55657191,Vers,Alimentation,123.87,6,743.22,2024-12-08,Carte,58,M,Sainte Catherine
+5767179,Fixe,Alimentation,94.13,4,376.52,2025-01-13,Carte,23,F,MailletBourg
+32489689,Compagnie,Vêtements,335.44,2,670.88,2024-08-27,Carte,41,M,Sainte NathalieVille
+19878964,Avenir,Vêtements,20.74,4,82.96,2024-12-12,Carte,29,F,Paul-sur-Hamel
+65459871,Attacher,Electronique,277.97,2,555.94,2025-03-13,Carte,28,F,LebretonVille
+61105090,Jeu,Alimentation,258.27,3,774.81,2025-04-12,PayPal,32,M,De Oliveira-la-Forêt
+84931278,Rose,Electronique,606.1,2,1212.2,2024-12-01,Carte,35,F,Pascal
+61888466,Prêter,Electronique,571.77,2,1143.54,2025-02-27,Carte,38,F,Guillou-sur-Mer
+923454,Veille,Electronique,194.94,3,584.82,2024-07-11,Carte,39,M,Saint Pauldan
+53546220,Qualité,Maison,180.3,3,540.9,2025-05-16,Carte,41,M,Pinto-les-Bains
+48105915,Poste,Vêtements,14.94,1,14.94,2024-10-16,Espèces,35,M,Sainte Noémidan
+25054320,Paraître,Vêtements,239.62,4,958.48,2024-12-18,Espèces,26,F,Valette-la-Forêt
+75890512,Article,Electronique,406.3,2,812.6,2024-09-10,Carte,49,M,Godard
+33566885,Cent,Vêtements,450.33,4,1801.32,2025-03-08,Carte,54,M,Saint JacquelineVille
+43233423,Impression,Loisirs,304.86,1,304.86,2025-05-15,Carte,28,F,Saint Danielle
+59629757,Pointe,Maison,48.5,2,97.0,2025-01-02,Carte,22,F,Saint GérardVille
+62758652,Crainte,Electronique,396.94,4,1587.76,2024-11-28,Carte,42,M,Moulin
+87020864,Nouveau,Loisirs,247.92,2,495.84,2024-07-24,Carte,36,F,Saint Isabelle
+65791037,Sien,Alimentation,287.95,3,863.85,2024-06-17,Espèces,25,F,Pintonec
+51766250,Erreur,Vêtements,355.08,2,710.16,2024-06-19,Carte,41,F,Sainte André-les-Bains
+56608835,Frère,Electronique,364.74,3,1094.22,2025-05-03,Carte,27,F,Saint Gabriel
+90168345,Bien,Vêtements,104.86,4,419.44,2025-05-20,Espèces,18,M,Grondin
+47850522,Poursuivre,Alimentation,381.31,3,1143.93,2024-11-02,Carte,47,M,Jacquetnec
+76297417,Parti,Maison,374.26,2,748.52,2025-01-04,Carte,39,F,Françoisdan
+22931541,Guère,Loisirs,94.71,3,284.13,2024-11-07,PayPal,40,F,Allain-sur-Meunier
+22621988,Maladie,Maison,413.44,1,413.44,2025-04-22,Espèces,39,F,Sainte Christelle
+77513462,Pitié,Vêtements,182.62,1,182.62,2025-03-11,Carte,29,F,Sainte Bernard
+1551010,Conseil,Maison,313.93,1,313.93,2024-08-06,Espèces,54,F,Gimenez
+20243914,Mille,Electronique,675.44,3,2026.32,2025-01-18,Carte,18,M,Nguyen
+19191008,Représenter,Alimentation,348.39,4,1393.56,2024-08-05,Espèces,49,F,Pineau
+77385792,Écouter,Vêtements,447.48,4,1789.92,2025-04-15,PayPal,43,F,MilletVille
+37642128,Banc,Electronique,159.38,2,318.76,2024-08-01,Espèces,45,F,Saint Gabriel
+55197120,Paysage,Vêtements,411.52,3,1234.56,2024-07-26,Carte,57,F,Jacquot-sur-Dias
+67369934,Tu,Vêtements,245.75,4,983.0,2024-06-21,Espèces,25,F,Saint AugusteVille
+40449273,Dimanche,Alimentation,348.5,4,1394.0,2025-01-01,Espèces,46,F,Antoinenec
+14425265,Exemple,Vêtements,117.54,3,352.62,2025-01-22,Carte,38,F,De Sousa-sur-Marchal
+54126147,Auteur,Electronique,442.77,2,885.54,2024-09-19,Carte,43,F,Sainte ThéophileVille
+25629630,Peau,Electronique,689.67,1,689.67,2024-09-01,PayPal,25,F,Sainte Lucie
+22438199,Champ,Electronique,435.39,2,870.78,2024-11-25,Carte,31,M,Jacob
+54186635,Quatre,Electronique,629.34,1,629.34,2025-05-03,Espèces,30,F,De Oliveira-les-Bains
+26848105,Considérer,Alimentation,202.51,1,202.51,2025-01-04,Espèces,41,F,Sainte SophieBourg
+61471420,Pauvre,Electronique,315.27,2,630.54,2025-01-22,PayPal,28,M,Boulay
+78307199,Cacher,Vêtements,370.06,1,370.06,2024-11-14,Carte,39,M,Saint Valentineboeuf
+16527240,Durant,Electronique,238.77,1,238.77,2024-06-28,Carte,19,F,Sainte Marcelle
+63374313,Consentir,Electronique,500.17,3,1500.51,2024-07-21,PayPal,57,F,Allard
+14110027,Patron,Vêtements,96.31,3,288.93,2025-05-04,Carte,18,M,Mathieu
+16238654,Chambre,Alimentation,108.9,3,326.7,2024-10-25,Carte,57,M,Benard
+84998437,Prison,Maison,295.79,1,295.79,2025-04-21,Espèces,29,F,Sainte Sophie
+68984710,Chance,Vêtements,223.18,2,446.36,2025-01-16,Carte,31,M,Sainte Auguste
+40135394,Service,Electronique,566.79,2,1133.58,2024-08-15,Carte,37,F,Seguin
+46527515,Somme,Vêtements,17.57,4,70.28,2025-03-03,Espèces,32,F,Sainte Vincent
+52416587,Affaire,Electronique,153.12,3,459.36,2024-10-04,Carte,45,M,Valentin
+88982750,Soldat,Maison,93.38,1,93.38,2024-07-12,Carte,43,F,Blot-les-Bains
+46669325,Désigner,Alimentation,404.39,8,3235.12,2024-12-10,Carte,41,F,Joly
+98338973,Expression,Electronique,225.17,4,900.68,2024-11-22,Carte,48,F,Rousset-la-Forêt
+86875418,Dessiner,Electronique,658.26,1,658.26,2025-01-27,Carte,42,F,Marques
+97518619,Inconnu,Maison,174.2,2,348.4,2024-06-24,Espèces,31,F,Saint William
+5072243,Type,Vêtements,388.05,1,388.05,2025-04-24,Carte,34,M,Saint NicoleVille
+51721666,Bord,Loisirs,382.98,4,1531.92,2024-08-27,Carte,37,F,Blanc
+99221738,Cause,Electronique,367.46,1,367.46,2024-08-27,Carte,35,F,Michel
+7387719,Soutenir,Alimentation,132.65,2,265.3,2024-06-20,Carte,24,F,Perrin
+25716882,Pouvoir,Alimentation,343.18,2,686.36,2024-11-16,PayPal,32,M,Descampsnec
+47491633,Exemple,Alimentation,140.66,1,140.66,2024-09-30,Carte,53,M,Traore
+96380616,Étoile,Electronique,203.28,3,609.84,2024-06-22,Espèces,34,F,Faivre
+28123997,Rouge,Alimentation,334.19,3,1002.57,2024-08-20,Carte,31,F,Cohen
+50010696,Roi,Vêtements,180.17,2,360.34,2025-04-17,Espèces,46,M,RobinBourg
+36650627,Cruel,Alimentation,126.45,1,126.45,2025-06-09,Espèces,43,F,Sainte Marguerite
+32552627,Difficile,Alimentation,474.91,3,1424.73,2024-10-07,Carte,33,F,VaillantBourg
+17838323,Certainement,Alimentation,111.4,4,445.6,2025-01-31,Carte,37,F,Sainte Anaïs-sur-Mer
+6899629,Vérité,Loisirs,81.56,1,81.56,2024-10-03,Espèces,32,M,Jean
+33825358,Apporter,Electronique,548.17,1,548.17,2025-04-01,Espèces,25,M,Sainte Philippe
+49366995,Frais,Electronique,9.24,3,27.72,2025-02-19,Carte,58,F,Saint Zoé
+18817167,Camarade,Vêtements,50.33,3,150.99,2024-06-24,PayPal,41,F,Ribeiro-sur-Couturier
+36787343,Droite,Electronique,718.94,3,2156.82,2025-03-10,Espèces,45,F,Saint WilliamBourg
+29085957,Ligne,Alimentation,347.68,2,695.36,2024-09-24,PayPal,37,F,ParentBourg
+81464525,Tâche,Electronique,504.92,4,2019.68,2024-07-24,Espèces,42,F,Bourdon
+7300386,Absence,Electronique,429.2,2,858.4,2024-07-04,Carte,38,M,Parent
+77011062,Fier,Electronique,320.66,2,641.32,2024-12-16,Carte,29,F,Carpentier-les-Bains
+12978274,Accorder,Maison,162.95,2,325.9,2025-01-24,Carte,22,F,Potier-sur-Louis
+13460765,Faire,Vêtements,443.07,6,2658.42,2024-12-10,Carte,49,F,Huet
+47857996,Port,Electronique,241.6,1,241.6,2024-07-08,Carte,47,F,Poirier-les-Bains
+56674845,Moindre,Vêtements,438.95,2,877.9,2025-03-01,Carte,43,F,Saint Alex
+9017167,Fil,Electronique,656.97,1,656.97,2025-04-23,Carte,60,M,Roussel
+72065149,Ramener,Vêtements,50.39,3,151.17,2025-02-22,Carte,28,F,Leroy
+34879295,Absence,Electronique,89.52,2,179.04,2024-07-09,Carte,39,F,Descampsdan
+31620838,Rond,Electronique,683.43,3,2050.29,2024-07-13,Carte,42,M,Legendre-sur-Couturier
+48982998,Demi,Alimentation,113.04,2,226.08,2025-03-31,Espèces,40,F,Robert
+53787571,Tout,Maison,302.4,2,604.8,2025-03-17,Carte,19,M,Pottier
+65972738,Silencieux,Loisirs,119.68,4,478.72,2025-01-21,Espèces,41,M,Boulanger
+30619561,Battre,Electronique,292.68,1,292.68,2025-01-21,Carte,29,F,Germain
+3337423,Debout,Vêtements,33.63,3,100.89,2025-01-08,Carte,60,F,Saint ÉdouardBourg
+92761873,Ennemi,Electronique,390.08,2,780.16,2024-08-29,Carte,39,M,Lelièvre
+97595078,Contraire,Maison,116.1,4,464.4,2025-03-25,Espèces,33,M,Saint Antoinettedan
+30387574,Sauver,Electronique,361.44,6,2168.64,2024-12-28,PayPal,46,F,Ramos
+32045721,Jeune,Maison,329.34,1,329.34,2024-08-04,Espèces,25,M,RocherVille
+12423328,Cher,Alimentation,29.15,2,58.3,2025-04-25,Carte,26,M,Maréchalboeuf
+89959725,Surtout,Alimentation,42.68,1,42.68,2025-02-16,Carte,35,F,Robin
+54726952,Campagne,Alimentation,332.75,4,1331.0,2024-07-09,Carte,45,M,Saint Madeleine
+1114762,Réussir,Maison,399.73,4,1598.92,2025-01-11,Carte,32,M,Sauvage-la-Forêt
+94006483,Paysage,Electronique,698.08,4,2792.32,2025-03-10,Carte,32,F,Perret-la-Forêt
+39536527,Front,Electronique,661.54,2,1323.08,2024-08-10,Carte,29,F,Marie
+20211545,Saison,Electronique,420.46,1,420.46,2025-06-08,Carte,41,M,Saint Lucie
+34939040,Puisque,Electronique,465.57,1,465.57,2024-11-15,Carte,32,M,LaurentVille
+96045109,Désespoir,Maison,68.58,3,205.74,2024-09-22,Espèces,26,F,Verdierboeuf
+96812865,Obéir,Loisirs,174.23,4,696.92,2024-07-29,Carte,42,M,Sainte Hortense
+50128448,Plonger,Maison,473.91,4,1895.64,2024-10-03,Espèces,41,M,Dupré
+62881031,Coup,Alimentation,176.21,2,352.42,2024-06-19,Carte,29,F,Boulanger-sur-Maury
+53433033,Qui,Alimentation,194.89,1,194.89,2025-04-04,Carte,54,M,Martel
+31202878,Situation,Vêtements,386.35,2,772.7,2025-06-14,Carte,33,F,Perrin
+7963501,Lisser,Electronique,641.74,3,1925.22,2024-10-06,Espèces,22,F,Saint Alphonse
+22547846,Politique,Electronique,68.67,2,137.34,2025-03-29,Carte,39,F,Bonneau
+14906821,Franchir,Loisirs,381.25,1,381.25,2025-01-10,PayPal,37,M,BouvetBourg
+63016505,Lieu,Maison,118.83,1,118.83,2024-10-01,Carte,39,F,Ferreira-sur-Gay
+94985317,Observer,Vêtements,273.9,4,1095.6,2024-07-03,Carte,41,F,Paul
+78556862,Aspect,Maison,386.61,2,773.22,2024-07-26,Carte,40,F,Gallet-sur-Jourdan
+26629559,Fier,Electronique,350.61,2,701.22,2025-03-16,Carte,32,M,Jourdanboeuf
+85719680,Séparer,Alimentation,218.0,2,436.0,2025-05-11,Carte,39,M,Saint NoëlVille
+75651820,Corps,Alimentation,219.46,4,877.84,2025-04-02,Carte,25,M,Vidal
+10088883,Secret,Electronique,298.92,2,597.84,2025-05-26,PayPal,44,F,Lemaire-sur-Thomas
+38421738,Seul,Loisirs,454.37,3,1363.11,2025-03-08,Carte,47,M,Bouvetboeuf
+61778292,Résister,Electronique,740.1,4,2960.4,2024-10-17,Carte,20,M,Ollivier
+67427263,Militaire,Maison,470.91,1,470.91,2025-03-10,Carte,34,M,Roy
+10303852,Quel,Vêtements,21.44,4,85.76,2025-05-26,Carte,41,F,Gimenez
+40848097,Inspirer,Electronique,505.26,4,2021.04,2024-08-27,Carte,25,F,Saint Joséphinedan
+82938317,Et,Electronique,702.64,3,2107.92,2025-03-16,Carte,38,F,Sainte Adrien-sur-Mer
+83971306,Tour,Alimentation,392.79,3,1178.37,2024-08-15,Espèces,33,M,CordierBourg
+74638585,Passion,Maison,276.06,2,552.12,2024-10-20,Espèces,29,M,Sainte Gabriellenec
+80646055,Mon,Vêtements,363.79,4,1455.16,2025-04-27,Carte,34,M,Lacombe
+81614009,Salut,Maison,113.51,3,340.53,2024-11-19,Carte,40,M,Sainte Arthur
+2906136,Puis,Electronique,127.54,2,255.08,2025-02-18,Espèces,38,M,Wagner-sur-Le Goff
+43836659,Établir,Loisirs,487.52,3,1462.56,2025-02-01,Carte,21,M,Gérard
+22466291,Lentement,Electronique,631.53,1,631.53,2024-11-30,Espèces,30,F,Saint Isaac-la-Forêt
+21978904,Porter,Alimentation,215.62,4,862.48,2024-07-02,Espèces,35,F,Jourdan-sur-Mendès
+70103382,Minute,Vêtements,296.09,2,592.18,2025-05-12,Espèces,50,F,Monnier
+18498833,Quartier,Maison,450.85,2,901.7,2025-04-29,Carte,22,F,Sainte Alexandria
+80568240,Intelligence,Maison,121.72,4,486.88,2024-12-21,Espèces,19,F,Bousquet
+3616169,Car,Electronique,183.87,2,367.74,2024-08-01,Carte,27,M,TanguyVille
+78373183,Près,Electronique,308.24,2,616.48,2024-11-14,Carte,33,M,Lamy-les-Bains
+31081087,Bord,Alimentation,85.94,3,257.82,2024-10-05,Carte,45,M,Lagarde
+90475521,Taire,Alimentation,301.36,4,1205.44,2024-10-13,PayPal,32,F,Lemoine-la-Forêt
+49443651,Brusquement,Electronique,62.07,2,124.14,2024-07-22,Carte,54,M,Maury
+11795619,Très,Vêtements,296.0,4,1184.0,2024-10-27,Espèces,29,M,Saint Thérèse-les-Bains
+23071516,Cour,Electronique,34.72,1,34.72,2024-10-05,Carte,49,F,Lebon
+78563579,Se,Vêtements,432.79,2,865.58,2025-02-12,Carte,36,M,Gauthier
+17123239,Ramasser,Electronique,49.89,3,149.67,2025-04-16,Carte,36,M,Gomez-sur-Mer
+81077923,Voir,Electronique,73.26,1,73.26,2024-11-26,Carte,30,M,Dumontnec
+25712139,Éprouver,Electronique,740.07,4,2960.28,2025-02-09,Carte,35,M,Laporte
+50706919,Type,Vêtements,174.61,2,349.22,2024-06-21,Carte,39,M,Joly-sur-Lejeune
+99358491,Enfermer,Vêtements,353.82,2,707.64,2024-10-10,Espèces,31,F,Sainte JacquesVille
+79906095,Autre,Electronique,181.66,3,544.98,2024-10-10,Carte,30,F,Brunel
+36074342,Précieux,Maison,472.58,2,945.16,2024-10-24,Carte,41,F,Philippe
+16098982,Contenter,Maison,60.99,1,60.99,2024-09-24,Carte,29,F,Chauvet
+39453101,Précéder,Electronique,496.72,1,496.72,2025-04-28,Carte,18,M,Sainte Claire-les-Bains
+27582286,Été,Alimentation,162.47,1,162.47,2025-06-09,Carte,44,F,Chartier
+79230213,Remarquer,Maison,285.67,1,285.67,2025-03-10,Carte,47,F,Jean-sur-Mer
+35510151,Blond,Vêtements,451.18,1,451.18,2024-08-20,Espèces,41,M,Lebrun
+38364323,Arrêter,Maison,64.5,2,129.0,2025-01-25,Carte,46,F,Mace
+16822713,Montrer,Alimentation,193.31,1,193.31,2025-03-12,Carte,20,M,Charlesnec
+45264417,Peuple,Vêtements,117.5,4,470.0,2024-12-01,Carte,39,F,Lecoqnec
+64316794,Différent,Vêtements,273.47,4,1093.88,2024-07-08,Carte,24,F,Bernard-sur-De Sousa
+95078280,Lune,Electronique,260.88,4,1043.52,2025-02-12,Carte,18,F,Hoareau
+71507205,Juste,Vêtements,276.96,2,553.92,2025-04-23,Espèces,36,F,Martin
+2768555,Éclater,Electronique,152.86,3,458.58,2024-11-04,Espèces,23,M,Le Rouxnec
+79008873,Non,Vêtements,101.31,4,405.24,2024-12-11,Carte,50,M,SamsonVille
+8497963,Reste,Electronique,235.67,3,707.01,2025-01-11,Carte,26,F,Pichonnec
+78303924,Ensemble,Vêtements,488.48,2,976.96,2025-04-25,Carte,36,M,Saint Maryse
+91273059,Chant,Alimentation,94.81,1,94.81,2024-06-23,Carte,44,M,Saint Lucie
+72257215,Mien,Loisirs,215.14,2,430.28,2024-08-26,Espèces,28,F,Salmon
+80491663,Pencher,Electronique,477.62,3,1432.86,2024-11-16,Carte,37,F,MartinBourg
+88624028,Résistance,Maison,325.07,4,1300.28,2024-09-10,Carte,57,F,Gillesnec
+726549,Beau,Loisirs,179.94,2,359.88,2024-10-27,Carte,45,F,Ledoux-sur-Boulanger
+19906197,Veiller,Alimentation,405.72,3,1217.16,2025-06-03,Carte,25,F,Lebon
+26190102,Immense,Alimentation,88.17,3,264.51,2025-01-07,Espèces,59,M,Dufourboeuf
+3510053,Malade,Vêtements,118.97,3,356.91,2024-06-23,Carte,18,M,Bernier
+361458,Lequel,Vêtements,299.27,2,598.54,2024-10-20,Carte,41,F,Saint Alice-les-Bains
+55542201,Ailleurs,Vêtements,225.67,1,225.67,2025-02-12,Carte,19,F,Marchand-la-Forêt
+51517437,Rire,Electronique,84.8,2,169.6,2024-10-16,Carte,36,M,Leroynec
+4985324,Rester,Alimentation,299.9,1,299.9,2025-02-18,Carte,37,M,Mace
+27673821,Créer,Vêtements,39.36,1,39.36,2025-03-14,Espèces,29,F,Renault
+86677627,Quarante,Electronique,447.66,3,1342.98,2024-07-12,Carte,37,M,Renard
+38079162,Réserver,Vêtements,336.4,3,1009.2,2024-08-01,Carte,18,F,Guillon
+75270998,Vieux,Electronique,721.53,1,721.53,2025-05-26,Carte,28,M,Boyer-sur-Colas
+89069636,Crise,Vêtements,52.85,1,52.85,2025-01-18,Espèces,34,M,Duhamel
+2537350,Propos,Electronique,730.82,2,1461.64,2025-03-15,PayPal,38,F,Samsondan
+48487400,Vivre,Vêtements,421.81,1,421.81,2024-10-24,Carte,43,F,Étienne
+39286333,Conversation,Alimentation,255.89,4,1023.56,2025-06-05,Espèces,28,M,BourdonVille
+36265498,Expliquer,Vêtements,135.24,2,270.48,2024-08-25,Carte,22,F,Courtois
+46349532,Sans,Maison,143.45,2,286.9,2025-01-21,Carte,27,F,Ferrand
+50970135,Verser,Loisirs,251.0,2,502.0,2025-04-17,Carte,35,M,Toussaint-sur-Cordier
+35666253,Intention,Vêtements,315.84,2,631.68,2024-11-28,Espèces,18,F,Fernandezboeuf
+70278781,Tenter,Maison,396.07,4,1584.28,2025-03-16,Espèces,30,F,Saint MauriceVille
+59611914,Chaîne,Alimentation,466.7,2,933.4,2025-01-30,Carte,29,F,Sainte Alix
+81385924,Morceau,Loisirs,246.1,2,492.2,2025-02-16,Espèces,29,F,Chauveau
+42708500,Fer,Maison,334.82,4,1339.28,2024-12-05,Carte,44,M,Rousseau
+18352168,Angoisse,Electronique,722.61,4,2890.44,2025-05-19,Espèces,37,F,Martel-sur-Joubert
+75602417,Moment,Maison,142.49,3,427.47,2024-07-18,Carte,25,M,Aubry-les-Bains
+11569803,Meilleur,Alimentation,326.85,3,980.55,2024-06-18,Carte,21,M,Rousseau
+65499047,Fois,Vêtements,378.36,3,1135.08,2025-04-05,Carte,37,F,Sanchez
+18755940,Cas,Electronique,113.12,1,113.12,2024-06-19,Espèces,27,F,ImbertVille
+51864031,Pauvre,Alimentation,318.43,8,2547.44,2024-12-28,Espèces,29,F,Fernandes
+90589411,Ancien,Vêtements,313.83,4,1255.32,2024-10-12,Espèces,43,M,Sainte Christophe
+62143511,Rencontrer,Alimentation,180.35,3,541.05,2024-07-31,Carte,41,F,Jolynec
+16364469,Poste,Alimentation,385.81,2,771.62,2024-11-28,Carte,32,F,Vasseur
+87811627,Soldat,Alimentation,342.08,4,1368.32,2024-09-08,Carte,24,M,Da Costaboeuf
+72561017,Pierre,Electronique,186.58,2,373.16,2024-12-20,Carte,21,F,Louis
+23987570,Toucher,Vêtements,136.68,1,136.68,2024-10-03,Carte,27,M,DupuyBourg
+37736486,Mouvement,Vêtements,369.99,4,1479.96,2025-02-13,Espèces,45,M,Leclercq
+4800633,Usage,Loisirs,70.91,4,283.64,2025-05-12,Espèces,38,M,Pages
+49232358,Vraiment,Alimentation,221.61,1,221.61,2024-06-21,Carte,34,F,Saint Paulboeuf
+86860610,Ancien,Maison,250.25,4,1001.0,2024-08-12,Espèces,36,F,Saint Zacharie
+20008903,Faveur,Alimentation,37.99,4,151.96,2025-03-14,Espèces,28,M,Dumas
+79784445,Tout,Alimentation,331.22,3,993.66,2024-09-30,Carte,34,M,Arnaud-les-Bains
+96118590,Officier,Loisirs,370.07,2,740.14,2025-01-15,Carte,24,F,Petitjean-sur-Boyer
+52161003,Juger,Maison,39.01,2,78.02,2025-01-26,Carte,18,M,Fontaine
+66819007,Habiller,Loisirs,151.25,4,605.0,2024-08-09,Carte,32,F,Bigot
+11781288,Gens,Vêtements,448.43,2,896.86,2024-09-03,Espèces,33,M,Dijoux-sur-Poulain
+4385562,Enfoncer,Loisirs,302.93,2,605.86,2024-12-01,PayPal,58,M,Didier
+36644373,Chant,Electronique,89.78,2,179.56,2025-03-30,Carte,39,M,Gonzalez
+13507836,Autour,Vêtements,222.51,1,222.51,2024-08-14,Carte,38,F,Blot
+62596641,Énorme,Vêtements,11.29,1,11.29,2025-04-17,Carte,33,F,Jacob-sur-Delorme
+77066352,Dernier,Maison,424.02,1,424.02,2024-07-27,Carte,22,F,MichelVille
+90019347,Vent,Alimentation,281.12,3,843.36,2025-04-06,Carte,41,M,MassonVille
+37201867,Tenter,Vêtements,492.41,2,984.82,2025-05-04,Carte,29,F,Sainte Christine
+26430523,Briser,Electronique,724.11,3,2172.33,2025-05-29,Carte,38,F,Fournier-la-Forêt
+57268707,Âgé,Alimentation,273.41,1,273.41,2025-05-06,Espèces,26,M,Descamps
+64829290,Réveiller,Electronique,436.05,1,436.05,2024-07-04,Espèces,37,M,Da Costa
+36020945,Conseil,Vêtements,9.62,1,9.62,2024-09-29,Espèces,31,M,Pottier
+28705512,Gagner,Maison,330.49,1,330.49,2024-07-23,Carte,41,F,Hoaraunec
+58521910,Fer,Alimentation,98.07,1,98.07,2024-06-18,Carte,51,F,Benoit
+45386939,Paupière,Maison,417.18,2,834.36,2024-10-01,Carte,61,F,Sainte CélineVille
+59731558,Marchand,Vêtements,166.83,3,500.49,2024-08-06,Espèces,37,M,Chauvet
+27245101,Branche,Vêtements,323.47,4,1293.88,2024-12-03,Espèces,18,F,ValléeBourg
+10818403,Coup,Vêtements,209.25,4,837.0,2024-10-02,Carte,30,M,Sainte Bertrand-les-Bains
+2932741,Remercier,Maison,257.5,3,772.5,2024-08-13,Carte,23,F,Hamon-sur-Grégoire
+14692193,Mari,Alimentation,282.53,2,565.06,2024-07-13,Carte,51,M,Joseph-sur-Mer
+34178897,Son,Vêtements,320.06,3,960.18,2025-03-13,Carte,50,M,ValletBourg
+84362380,Voix,Maison,355.3,3,1065.9,2024-06-20,Espèces,18,M,Saint Anoukboeuf
+60183468,Grâce,Alimentation,121.75,3,365.25,2024-07-25,Carte,38,F,Sainte Jean-sur-Mer
+69938794,Briser,Alimentation,499.18,4,1996.72,2024-09-01,Carte,39,F,Sainte ThéodoreVille
+32304294,Entourer,Electronique,516.79,3,1550.37,2024-08-26,Espèces,24,M,Potier
+57541796,Mari,Alimentation,295.95,2,591.9,2024-12-04,Carte,42,F,Guibertnec
+56791115,Calme,Alimentation,465.16,3,1395.48,2025-05-16,PayPal,51,M,Sainte Manon
+18760551,Direction,Vêtements,437.0,1,437.0,2025-04-21,Carte,18,F,Guillon
+87000550,Simple,Alimentation,317.43,2,634.86,2024-08-04,Espèces,27,F,GrégoireVille
+27694740,Erreur,Vêtements,366.11,2,732.22,2025-02-10,Carte,30,M,Teixeira
+35459545,Aspect,Loisirs,238.67,1,238.67,2025-01-30,Carte,31,M,Clément-les-Bains
+24736269,Cou,Electronique,201.81,3,605.43,2024-06-16,Carte,24,F,Loiseaudan
+19086170,Aussitôt,Electronique,123.62,8,988.96,2024-12-02,Carte,18,M,Joubert-les-Bains
+67689268,Gris,Loisirs,73.93,4,295.72,2024-06-20,Carte,33,M,Bertrand
+12258396,Trait,Alimentation,276.42,4,1105.68,2025-01-12,Carte,36,F,Jacques
+49279101,Queue,Electronique,318.45,4,1273.8,2025-01-26,Carte,39,M,Vallée
+85718254,Ordre,Alimentation,99.64,1,99.64,2024-08-30,Carte,34,F,Martelboeuf
+58924702,Cent,Alimentation,178.01,1,178.01,2025-01-26,Carte,28,M,Grondin-sur-Maréchal
+87494095,Pouvoir,Alimentation,274.83,4,1099.32,2024-08-20,Carte,51,F,Dupont
+65320043,Attacher,Alimentation,38.5,4,154.0,2024-12-29,Carte,21,F,Cordier-la-Forêt
+90346916,Depuis,Vêtements,74.78,2,149.56,2025-02-03,Espèces,40,F,Sainte Philippine
+30580757,Voix,Vêtements,208.82,1,208.82,2025-01-02,Espèces,44,M,Marie
+72366051,Lune,Vêtements,489.14,3,1467.42,2025-03-25,Espèces,28,M,Sainte Joséphine
+2275728,Risquer,Electronique,129.8,3,389.4,2024-11-22,Espèces,38,M,Dupontboeuf
+2583599,Défaut,Electronique,710.38,8,5683.04,2024-12-07,PayPal,26,F,Riou
+99365569,Plein,Electronique,55.92,2,111.84,2025-04-28,Carte,27,F,Payet
+730937,Tuer,Vêtements,228.59,3,685.77,2025-01-18,Carte,19,F,Lagarde-les-Bains
+40859540,Honneur,Loisirs,105.86,2,211.72,2024-07-13,Carte,47,M,Fouquet
+45566245,Tenter,Vêtements,323.12,3,969.36,2025-02-13,PayPal,27,F,Marchal-sur-Renaud
+71850680,Étendue,Electronique,524.21,4,2096.84,2025-05-23,Carte,19,F,Thomas
+10689375,Neuf,Electronique,383.98,4,1535.92,2024-08-02,Carte,47,M,BouchetVille
+53319574,Exemple,Maison,328.87,3,986.61,2025-04-04,Carte,26,F,Morin
+47751088,Trait,Vêtements,65.6,2,131.2,2025-02-15,Carte,46,M,Auger
+64878593,Reconnaître,Maison,216.61,3,649.83,2025-05-23,Carte,28,M,Henry
+74715119,Fonction,Maison,108.83,2,217.66,2024-10-09,Espèces,37,M,Thierry-sur-Launay
+17927953,Usage,Maison,410.44,2,820.88,2025-04-10,Carte,37,M,Becker
+45933722,Cesse,Electronique,615.79,4,2463.16,2025-05-02,Carte,42,M,Sainte Christiane-sur-Mer
+65164081,Colon,Alimentation,413.86,2,827.72,2024-09-10,Espèces,43,F,Sainte Vincentnec
+73854173,Saint,Electronique,463.23,3,1389.69,2025-01-12,Carte,33,M,Fontaine-sur-Georges
+27976844,Réduire,Maison,238.29,3,714.87,2024-11-16,Carte,31,M,Joly
+7165453,Partager,Alimentation,87.73,8,701.84,2024-12-22,Carte,28,F,Carre
+19790560,Disparaître,Electronique,484.84,4,1939.36,2025-03-01,Espèces,29,M,Texier-sur-Mer
+44946722,Parti,Maison,207.11,4,828.44,2024-07-24,PayPal,22,F,Chauvet-la-Forêt
+15459976,Prêter,Maison,395.28,1,395.28,2025-01-27,Espèces,43,M,Leroux
+16977182,Aile,Electronique,296.9,2,593.8,2024-08-27,Carte,38,F,Sainte Constancenec
+91102262,Quarante,Vêtements,193.3,2,386.6,2024-07-28,Espèces,31,M,Saint Michellenec
+65090034,Rassurer,Electronique,724.94,2,1449.88,2024-06-24,Espèces,34,M,Langloisboeuf
+58776001,Vers,Loisirs,378.21,2,756.42,2024-12-29,Espèces,35,F,DelaunayBourg
+12015708,Appel,Alimentation,268.67,3,806.01,2025-06-15,Espèces,36,M,Sainte Inès-sur-Mer
+70623740,Emmener,Alimentation,272.65,4,1090.6,2025-04-19,Carte,35,M,Moreau
+51677361,Sang,Maison,41.75,1,41.75,2024-11-17,Carte,29,F,Sainte Théodore
+54493804,Prêter,Electronique,677.9,8,5423.2,2024-12-26,Espèces,23,F,Blondel
+57344824,Être,Alimentation,268.0,2,536.0,2024-10-28,Espèces,22,M,Blanchard-les-Bains
+49871358,Près,Alimentation,497.74,2,995.48,2025-05-28,Carte,22,M,Vallet
+25346273,Blanc,Vêtements,370.1,2,740.2,2024-12-29,PayPal,42,F,Pottierboeuf
+25316030,Honte,Maison,440.09,1,440.09,2025-03-25,Carte,29,F,BriandVille
+1931671,Deviner,Vêtements,73.07,3,219.21,2025-06-01,Espèces,37,M,Sainte Roland-la-Forêt
+24230014,Tôt,Alimentation,317.5,4,1270.0,2024-08-01,Espèces,49,M,BlinBourg
+96134917,Beau,Electronique,591.66,3,1774.98,2025-06-12,Carte,46,F,RiouBourg
+69037885,Répondre,Alimentation,373.08,1,373.08,2025-06-05,Carte,44,M,Menard
+13697926,Fermer,Electronique,456.03,3,1368.09,2024-09-28,Carte,32,M,PagesBourg
+33978957,Casser,Loisirs,169.02,1,169.02,2025-04-30,Carte,18,F,Sainte Guillaume-les-Bains
+82126437,Couler,Alimentation,270.82,1,270.82,2024-08-22,Carte,20,M,Sainte David-les-Bains
+24537041,Tendre,Electronique,87.7,2,175.4,2024-08-03,Carte,20,M,Rodriguezboeuf
+50911468,Tenter,Electronique,213.78,4,855.12,2025-03-15,Carte,31,F,Girard
+87044634,Fixer,Electronique,263.83,3,791.49,2024-08-24,Carte,34,F,Durand-sur-Mer
+32989562,Découvrir,Electronique,296.98,3,890.94,2025-04-14,Carte,29,F,Gérard-sur-Georges
+97769154,Alors,Alimentation,305.91,4,1223.64,2024-08-28,Carte,41,M,Evrard
+65701821,Fil,Alimentation,415.65,1,415.65,2025-06-05,Carte,39,F,Rey-les-Bains
+73277078,Certainement,Electronique,292.5,3,877.5,2025-04-12,Carte,36,F,Langlois
+63937875,Beau,Loisirs,205.1,3,615.3,2024-07-11,Carte,26,F,Grondin
+45304842,Presque,Alimentation,340.94,2,681.88,2025-03-05,Espèces,35,M,Bonneaunec
+57838002,Voyage,Electronique,122.08,3,366.24,2025-02-14,Espèces,60,M,Saint Guillaume
+56725781,Livrer,Loisirs,37.89,4,151.56,2025-03-11,PayPal,40,F,Saint Vincent
+24905107,Pourquoi,Vêtements,46.77,3,140.31,2024-10-26,Carte,44,M,Saint Susannenec
+84882488,Général,Alimentation,174.87,3,524.61,2024-11-28,Espèces,33,F,Salmon
+18240021,Quitter,Vêtements,43.42,1,43.42,2025-02-09,Carte,28,F,Poirier
+42401157,Oncle,Vêtements,400.2,3,1200.6,2025-01-15,Carte,49,M,Sainte Antoinedan
+75689506,Genou,Maison,11.09,3,33.27,2025-06-15,Carte,39,F,Tanguy
+16410781,Marche,Alimentation,190.4,4,761.6,2024-08-27,Carte,30,F,GuichardVille
+50684144,Tirer,Loisirs,173.19,2,346.38,2024-10-15,Carte,36,F,ChartierBourg
+95427927,Palais,Vêtements,40.5,2,81.0,2024-06-24,Carte,47,F,Saint LaureBourg
+31745736,Poésie,Alimentation,57.1,1,57.1,2025-05-09,Carte,36,F,Cousin
+77346680,Subir,Electronique,382.8,3,1148.4,2024-08-24,Carte,33,F,Gallet
+87143963,Dépasser,Vêtements,200.74,2,401.48,2024-10-22,Espèces,33,F,Martinez
+92473435,Phrase,Electronique,675.81,1,675.81,2024-07-15,Carte,30,M,Normand
+80739800,Serrer,Loisirs,274.96,1,274.96,2025-02-11,Carte,18,F,TessierVille
+34776191,Nouveau,Vêtements,195.83,4,783.32,2025-03-17,Espèces,34,F,Ribeiro
+93638199,Roman,Electronique,190.83,3,572.49,2025-01-17,Carte,38,M,LeroyBourg
+82496558,Montrer,Electronique,152.01,1,152.01,2024-07-09,Carte,23,F,Adam
+68752047,Science,Vêtements,86.79,3,260.37,2024-07-09,Carte,42,M,Lambert
+63808484,Compte,Alimentation,247.0,3,741.0,2025-03-07,Espèces,25,M,Sainte Margaretdan
+64613650,Verre,Maison,233.42,3,700.26,2025-03-23,Carte,45,M,Girard
+29734290,Lisser,Vêtements,273.8,3,821.4,2024-07-21,Carte,51,M,Guillet-sur-Leduc
+29570064,Quitter,Vêtements,23.8,2,47.6,2025-04-29,Espèces,50,M,Bigot
+66631870,Recevoir,Maison,141.5,2,283.0,2025-04-08,Carte,25,F,Bonnindan
+46571751,Toit,Vêtements,154.71,4,618.84,2024-08-28,Carte,35,M,Pelletier
+86518939,Échapper,Maison,196.34,3,589.02,2024-11-04,PayPal,48,F,Saint Sylvie
+4164155,Exister,Vêtements,224.51,3,673.53,2025-01-27,Espèces,26,F,Lenoir
+28122717,Naissance,Loisirs,104.23,1,104.23,2024-06-27,Carte,24,M,Chrétien-sur-Da Silva
+93144426,Inquiéter,Electronique,30.36,3,91.08,2025-05-16,Carte,27,F,Dupuy-la-Forêt
+79700561,Vieux,Electronique,361.56,1,361.56,2025-03-20,Carte,35,F,Adamboeuf
+99970158,Terreur,Alimentation,410.8,1,410.8,2024-07-09,Carte,45,M,Fernandez-sur-Vasseur
+96478227,Lettre,Loisirs,9.39,3,28.17,2024-07-04,Carte,47,M,Leroy
+21020005,Chute,Electronique,703.29,4,2813.16,2025-02-22,Carte,20,F,Saint Alice
+85059267,Toile,Maison,308.73,4,1234.92,2024-09-03,Carte,25,F,Ferreira
+50258118,Céder,Electronique,234.81,4,939.24,2025-04-05,Carte,44,F,Sainte Aimé
+19379670,Bien,Loisirs,40.8,1,40.8,2025-02-14,Carte,38,M,Bruneau-sur-Mer
+52902485,Si,Maison,124.9,4,499.6,2024-12-18,Carte,42,M,Delaunay-les-Bains
+58692478,Chaise,Vêtements,151.17,4,604.68,2025-04-22,Espèces,19,M,Ferranddan
+56035469,Profond,Electronique,23.85,3,71.55,2025-05-13,Carte,27,M,Schneider
+56229743,Rose,Alimentation,489.6,1,489.6,2025-05-12,Carte,49,M,Lemaire
+61559398,Chercher,Alimentation,434.13,2,868.26,2024-07-16,Carte,30,F,Marty
+34709412,Genou,Electronique,514.35,2,1028.7,2024-06-18,Carte,27,M,Laurent-sur-Nicolas
+58387282,Agiter,Alimentation,64.38,3,193.14,2025-01-07,Espèces,24,M,Lamy
+54703206,Nous,Vêtements,145.72,2,291.44,2024-11-05,Espèces,25,M,Olivier
+40178035,Français,Electronique,147.85,1,147.85,2024-09-17,Carte,44,M,Leclercqboeuf
+18507040,Observer,Alimentation,36.03,2,72.06,2024-06-21,Carte,39,M,MoreauBourg
+86544176,Train,Loisirs,414.22,3,1242.66,2024-11-10,Carte,33,F,Mercier
+2558907,Succès,Vêtements,395.52,3,1186.56,2024-07-21,PayPal,18,F,Sainte Stéphanienec
+19622744,Que,Alimentation,62.43,3,187.29,2025-01-27,Carte,23,M,Saint Richard
+2152868,Comment,Alimentation,353.41,2,706.82,2025-05-31,Carte,40,M,Aubert
+99256376,Flot,Electronique,103.72,4,414.88,2025-04-21,Espèces,31,M,BarbierBourg
+26900574,Habiter,Electronique,588.0,4,2352.0,2025-02-10,PayPal,34,M,Colas
+65377534,Lune,Maison,240.6,4,962.4,2025-03-14,Carte,25,M,Saint Camille-la-Forêt
+21309510,Paysan,Vêtements,30.92,1,30.92,2025-01-13,Carte,18,F,Vaillant
+89108710,Ici,Vêtements,435.53,2,871.06,2024-08-13,Espèces,48,M,Lefèvre
+74787495,Aider,Alimentation,305.84,4,1223.36,2024-12-25,Carte,36,F,Saint Arnaude
+4545956,Et,Alimentation,47.24,6,283.44,2024-12-20,Carte,31,M,Bailly-sur-Roger
+49350180,Empêcher,Electronique,390.52,4,1562.08,2025-05-22,Carte,24,F,Fontaine
+62877727,Travailler,Maison,356.14,2,712.28,2025-03-01,Carte,42,F,Sainte Hortense-sur-Mer
+19933924,Employer,Vêtements,267.81,2,535.62,2025-05-24,Carte,41,M,Morvan
+54892802,Chance,Vêtements,382.34,3,1147.02,2024-10-23,Espèces,38,F,Benard
+37505281,Se,Vêtements,488.13,3,1464.39,2025-03-07,Carte,33,M,Simonboeuf
+69566509,Leur,Electronique,330.87,4,1323.48,2024-08-08,Carte,28,F,Costedan
+90531872,Haïr,Vêtements,177.31,2,354.62,2024-11-25,Carte,53,F,Guyot
+17074659,Attacher,Maison,339.41,4,1357.64,2024-09-15,Espèces,42,F,Brun
+43768155,Foule,Maison,231.71,2,463.42,2025-02-07,Carte,37,F,Henry
+48006601,Forcer,Alimentation,239.33,4,957.32,2024-09-16,Carte,40,M,Laurentdan
+47814109,Seigneur,Loisirs,471.65,1,471.65,2024-08-20,Carte,47,F,Lecomte
+79879850,Beau,Maison,106.47,2,212.94,2025-05-20,Carte,48,M,Sainte Xavier
+38265829,Faute,Alimentation,391.75,2,783.5,2024-12-03,Carte,35,F,Joseph
+67738488,Large,Electronique,484.8,1,484.8,2025-01-01,Carte,38,F,Tanguy
+71525234,Rouler,Electronique,356.46,6,2138.76,2024-12-23,Carte,46,F,Sainte Aimée
+49514258,Commencer,Vêtements,118.97,4,475.88,2025-03-21,Carte,46,F,Rocher
+17032893,Forcer,Vêtements,124.74,1,124.74,2024-07-26,PayPal,36,F,Da Silvaboeuf
+24708029,Larme,Maison,275.7,2,551.4,2025-02-23,Carte,39,M,Dumontnec
+86140615,Heureux,Electronique,338.31,4,1353.24,2024-09-26,Espèces,26,F,Bailly
+30555956,Parmi,Vêtements,198.97,4,795.88,2025-04-25,PayPal,39,M,Ledouxnec
+36092067,Prévoir,Loisirs,497.44,4,1989.76,2024-06-20,PayPal,19,F,Legendre
+46351576,Ligne,Loisirs,92.17,2,184.34,2024-11-24,Carte,36,F,CoulonBourg
+93680390,Poésie,Electronique,596.0,6,3576.0,2024-12-23,Carte,26,F,Saint Émilie
+25394103,Il,Loisirs,199.43,2,398.86,2025-04-03,Carte,50,F,Garcia-sur-Buisson
+96672711,Secours,Electronique,483.15,3,1449.45,2025-01-25,Espèces,38,F,Sainte Auguste
+30613279,Construire,Maison,191.61,8,1532.88,2024-12-17,Carte,45,F,Guibertnec
+73750286,Rejoindre,Electronique,246.34,2,492.68,2024-09-12,Carte,28,M,Couturier-sur-Perez
+41800830,Banc,Vêtements,447.85,1,447.85,2024-11-09,Carte,42,M,Samson
+14343161,Point,Vêtements,460.17,3,1380.51,2025-05-11,Carte,18,F,Gimenez-sur-Lenoir
+13189306,Refuser,Electronique,31.72,3,95.16,2024-11-17,PayPal,55,F,Saint Rogerdan
+35191159,Veiller,Vêtements,394.84,4,1579.36,2025-06-11,Carte,18,F,Bonneaudan
+50497336,Yeux,Loisirs,439.29,4,1757.16,2024-10-31,Carte,51,F,Pereira
+69276572,Inviter,Electronique,36.4,4,145.6,2024-12-12,PayPal,39,M,Mallet
+62939140,Billet,Vêtements,360.98,4,1443.92,2025-02-13,Carte,26,F,Cohen
+75960527,Certes,Maison,144.84,8,1158.72,2024-12-23,Carte,49,F,Rocher
+18874238,Dieu,Maison,274.53,1,274.53,2024-07-07,Carte,29,M,Sainte Michelle
+59171469,Dont,Vêtements,428.24,4,1712.96,2024-10-15,Carte,20,F,Mendès
+61565651,Échapper,Vêtements,52.05,3,156.15,2025-02-22,Espèces,25,M,MailletVille
+39021872,Sommeil,Alimentation,386.71,2,773.42,2025-01-19,Espèces,18,M,Dijoux
+49814666,Terreur,Electronique,698.78,3,2096.34,2025-02-08,Carte,47,F,Marin-sur-Pinto
+66749889,Même,Electronique,316.8,2,633.6,2025-03-05,Carte,26,M,Bourdon-sur-Gilbert
+25277663,Nez,Electronique,332.33,4,1329.32,2025-01-18,Carte,41,F,SanchezBourg
+73783253,Reposer,Loisirs,116.03,3,348.09,2025-06-07,Carte,49,F,Gomez
+5659043,Prix,Maison,409.92,4,1639.68,2025-05-01,Espèces,30,M,Duhamel
+58889910,Désert,Vêtements,451.46,2,902.92,2025-04-16,Carte,42,F,Gay
+4425632,Français,Electronique,290.16,3,870.48,2024-08-10,Carte,27,F,Sainte Bernadette
+45643999,Brûler,Electronique,587.12,1,587.12,2025-03-02,Carte,31,M,Gay-la-Forêt
+89485055,Confondre,Loisirs,317.92,3,953.76,2025-02-08,Espèces,58,M,Lecoq
+70056655,Enfant,Vêtements,256.9,4,1027.6,2025-02-25,PayPal,22,M,Sainte Marc-sur-Mer
+82893284,Charger,Electronique,604.11,3,1812.33,2025-04-13,Carte,33,F,Sainte Colette
+27752698,François,Maison,140.67,3,422.01,2024-10-11,Carte,31,F,Roger
+41031838,Non,Electronique,95.76,1,95.76,2024-08-10,Espèces,30,F,Martins
+82824465,Usage,Loisirs,250.65,3,751.95,2025-04-21,Carte,18,F,Lejeune
+38446526,Prouver,Electronique,588.26,3,1764.78,2024-11-20,Carte,36,F,Jacques
+37984952,Campagne,Loisirs,221.64,4,886.56,2024-07-23,Carte,53,F,Saint Olivie
+82649412,Veiller,Vêtements,217.65,1,217.65,2025-03-25,Espèces,35,F,Barbedan
+81595215,Lier,Electronique,601.5,3,1804.5,2024-11-08,PayPal,39,F,Duboisnec
+637446,Résultat,Alimentation,314.39,2,628.78,2024-10-28,Espèces,31,F,Fernandes-sur-Chevallier
+514361,Aller,Maison,128.98,4,515.92,2025-02-21,PayPal,21,M,Saint Alexandrienec
+20545099,Lieu,Electronique,22.2,1,22.2,2024-07-21,Carte,41,M,Neveu
+76676657,Tout,Alimentation,170.35,2,340.7,2024-12-18,Espèces,20,M,Antoine-sur-Martel
+9884713,Coeur,Electronique,255.09,2,510.18,2025-05-12,Carte,40,M,Joubert
+91430878,Commencer,Vêtements,472.5,1,472.5,2025-03-16,Espèces,29,F,Poulain
+24493207,Compagnon,Maison,302.55,4,1210.2,2025-03-13,Carte,38,M,Saint Lucie-les-Bains
+83225173,Exemple,Vêtements,490.28,2,980.56,2024-09-21,Carte,38,F,Guichard-sur-Blondel
+68167264,Quarante,Electronique,439.77,1,439.77,2024-11-29,Carte,35,M,Sainte Arnaude
+4051642,Égal,Electronique,159.96,2,319.92,2024-12-12,Espèces,43,F,Sainte Michelleboeuf
+35122014,Marche,Electronique,449.55,3,1348.65,2024-11-07,Carte,56,F,Garcia-sur-Millet
+82248903,Tantôt,Electronique,75.86,4,303.44,2024-11-27,Carte,36,F,Sainte David
+34297359,Jour,Alimentation,189.76,3,569.28,2024-10-12,Carte,26,F,Leroy
+45018963,Elle,Alimentation,159.89,4,639.56,2025-05-11,Carte,33,F,Philippenec
+58298110,Nature,Electronique,704.74,1,704.74,2025-05-17,Carte,24,F,Hardy
+58298260,Parfaitement,Alimentation,341.66,4,1366.64,2024-08-15,Carte,41,F,Boutinnec
+8299698,Flot,Loisirs,114.14,1,114.14,2024-10-27,Espèces,33,M,Dumas-sur-Mer
+52724385,Étoile,Alimentation,488.62,1,488.62,2025-06-02,Carte,26,F,Perrinboeuf
+24194158,Lever,Electronique,606.84,3,1820.52,2025-01-07,Carte,46,M,Imbert
+88537312,Vivre,Alimentation,9.48,4,37.92,2025-05-17,Carte,54,F,Teixeira
+72539576,Professeur,Electronique,493.1,1,493.1,2025-01-15,Espèces,40,F,Descamps-sur-Mer
+38325450,Roi,Electronique,191.92,1,191.92,2024-09-03,Carte,25,M,Maillot-sur-Fournier
+2186567,Anglais,Alimentation,299.43,4,1197.72,2024-12-20,PayPal,18,F,Neveunec
+61312387,Armer,Maison,412.38,6,2474.28,2024-12-06,Carte,30,F,Prévost-sur-Rousseau
+600149,Inconnu,Electronique,740.84,4,2963.36,2024-09-15,Carte,48,M,Lévy-sur-Delattre
+94666044,Nouveau,Loisirs,294.3,1,294.3,2025-03-02,Carte,30,F,Mallet
+81868155,Vif,Alimentation,417.65,4,1670.6,2024-07-14,Carte,48,F,Didier
+16834585,Militaire,Loisirs,36.68,2,73.36,2024-10-29,Carte,39,M,Saint Claire
+630652,Complètement,Alimentation,206.78,3,620.34,2024-08-31,Carte,48,F,Sainte Mathilde
+98816771,Sérieux,Electronique,575.1,2,1150.2,2024-11-13,Carte,42,M,Chevallier
+62809794,Accord,Vêtements,394.33,4,1577.32,2025-02-05,Carte,33,F,Julien-la-Forêt
+4343485,Aussi,Maison,344.14,3,1032.42,2025-05-15,Espèces,53,M,Pruvost-la-Forêt
+35529071,Seuil,Alimentation,42.93,4,171.72,2025-06-13,Espèces,18,M,Leclerc
+25704116,Mien,Loisirs,476.64,4,1906.56,2025-01-31,Carte,20,M,Poirierdan
+79897759,Secours,Vêtements,452.26,2,904.52,2025-03-14,Carte,27,F,Descamps
+52524738,Large,Electronique,645.16,2,1290.32,2025-02-28,Espèces,29,M,Valette
+88644294,Sous,Electronique,227.24,3,681.72,2024-09-17,Carte,18,M,Philippe
+71523590,Traîner,Alimentation,118.65,3,355.95,2024-11-17,Carte,41,F,Duhamel-la-Forêt
+54215413,Espace,Maison,151.91,2,303.82,2025-06-04,Carte,39,M,Reynaud-sur-Chevalier
+65137424,Vide,Electronique,668.96,2,1337.92,2025-04-17,Carte,46,M,Saint Nicolas
+9630416,Clair,Electronique,238.42,3,715.26,2025-02-16,Carte,53,M,Ruiz-sur-Gilbert
+755145,Sembler,Electronique,170.52,4,682.08,2024-07-05,Carte,34,F,Saint Victor
+66198719,Libre,Maison,341.09,4,1364.36,2025-01-22,Espèces,37,M,Georges
+91392490,Jamais,Vêtements,208.92,2,417.84,2024-07-12,Carte,34,F,Saint Jules-les-Bains
+15877236,Hauteur,Vêtements,490.32,1,490.32,2025-03-04,Carte,54,M,Hubert-sur-Mathieu
+7018767,Dire,Maison,106.14,2,212.28,2024-12-13,PayPal,40,F,Imbert
+90288515,Droite,Alimentation,207.02,2,414.04,2024-12-21,Carte,48,F,Sainte Étienne
+77328660,Créer,Electronique,14.91,4,59.64,2025-04-03,Carte,32,F,Bigot-sur-Cousin
+99392134,Échapper,Electronique,102.09,2,204.18,2024-08-24,Espèces,51,F,Lucas-sur-Perrot
+62928385,Groupe,Electronique,642.31,1,642.31,2024-08-05,Carte,34,F,Saint Margot-sur-Mer
+37485538,Brûler,Electronique,216.06,2,432.12,2025-05-26,Carte,33,F,Martelboeuf
+90792027,Cruel,Vêtements,273.17,4,1092.68,2025-02-08,Espèces,38,F,Baron-sur-Hervé
+80966544,Cinq,Vêtements,494.66,4,1978.64,2025-06-06,PayPal,35,F,Saint Nicolas-les-Bains
+21864776,L'un,Vêtements,113.96,2,227.92,2024-07-26,Espèces,50,M,PerretVille
+54315377,Changement,Vêtements,27.43,3,82.29,2025-04-16,Espèces,43,M,Vincent-sur-Gimenez
+89162182,Aile,Electronique,498.79,1,498.79,2024-11-13,Carte,27,M,Robert
+40842724,Ton,Electronique,438.9,1,438.9,2024-06-18,Carte,37,F,Sainte Augustin-sur-Mer
+87433471,Notre,Maison,402.49,2,804.98,2024-09-07,Espèces,26,F,Saint Juliette-la-Forêt
+15758972,Folie,Vêtements,198.42,2,396.84,2024-08-13,PayPal,50,F,Camus
+40815891,Placer,Alimentation,328.8,4,1315.2,2024-07-21,Espèces,50,M,Sainte Margaudboeuf
+58993981,Folie,Vêtements,357.82,4,1431.28,2024-09-06,Carte,37,M,Aubry
+28837044,Offrir,Electronique,167.07,2,334.14,2024-10-10,Espèces,44,F,Petitjean
+38250535,Depuis,Alimentation,71.16,3,213.48,2024-11-03,Espèces,43,F,Delahaye-sur-Bigot
+31911276,Armer,Maison,139.61,2,279.22,2025-01-12,Carte,48,M,Dos Santos
+70696623,Quel,Vêtements,413.83,1,413.83,2025-02-08,Carte,42,M,GomesBourg
+88452107,Recueillir,Alimentation,135.99,3,407.97,2024-10-09,Espèces,33,F,Carre
+31367592,Prier,Maison,387.96,4,1551.84,2025-03-14,Carte,48,M,Lopez
+70210668,Escalier,Electronique,200.24,2,400.48,2025-04-28,Carte,44,F,GarnierBourg
+55355414,Prendre,Vêtements,104.53,8,836.24,2024-12-05,Carte,38,F,Saint Frédéric
+80973586,Porter,Loisirs,413.58,2,827.16,2025-04-24,Espèces,40,F,De Oliveira
+19795163,Bonheur,Maison,452.03,1,452.03,2024-10-04,Espèces,43,F,Fernandez
+3418590,Durer,Maison,498.83,3,1496.49,2024-10-25,Carte,24,F,Saint AiméBourg
+38806326,Machine,Maison,425.34,2,850.68,2025-02-18,Carte,23,M,BoyerBourg
+29205091,Taille,Alimentation,119.85,2,239.7,2025-02-05,Carte,37,M,Rodrigues
+18572616,Voler,Electronique,387.39,2,774.78,2025-01-19,Carte,39,F,Laporte-sur-Bourdon
+59177772,Qui,Maison,295.53,1,295.53,2024-10-10,Carte,48,F,Sainte Nath-sur-Mer
+93690142,Sauter,Electronique,437.29,4,1749.16,2025-01-09,Carte,42,F,Garnier
+43596352,Témoin,Loisirs,174.24,1,174.24,2024-09-19,Carte,18,F,Poirier
+69574159,Te,Maison,233.28,2,466.56,2025-06-02,Carte,21,M,Roussel
+16571511,Deviner,Vêtements,339.02,3,1017.06,2024-09-07,Espèces,29,F,Bruneau
+89027381,Barbe,Loisirs,39.55,2,79.1,2024-09-17,Carte,36,F,Techer-les-Bains
+30784625,Entier,Alimentation,93.78,4,375.12,2025-04-26,Carte,21,F,Lagarde
+41847762,Respirer,Electronique,516.4,1,516.4,2025-04-23,Carte,57,F,Huet
+60938079,Apprendre,Maison,402.39,2,804.78,2024-11-26,PayPal,39,F,Roger
+58667084,Police,Alimentation,417.73,2,835.46,2024-11-30,PayPal,36,F,Sainte Christiane-la-Forêt
+41091699,Rentrer,Alimentation,180.69,2,361.38,2024-06-25,Espèces,37,M,Lambert
+13848294,Naturel,Alimentation,300.4,4,1201.6,2025-01-03,Espèces,42,F,Lebon
+78187335,Hôtel,Electronique,555.04,4,2220.16,2025-04-03,Espèces,32,M,Henry-la-Forêt
+52508710,Chercher,Alimentation,303.5,1,303.5,2024-11-20,Carte,31,F,Carre
+63990946,Tempête,Electronique,256.44,3,769.32,2024-09-16,Carte,51,F,Dias
+12299234,Intérêt,Vêtements,278.18,2,556.36,2025-04-12,Carte,24,M,Da SilvaVille
+85700397,Poste,Electronique,355.82,2,711.64,2024-11-13,PayPal,33,F,MilletBourg
+22334776,Douceur,Loisirs,87.18,4,348.72,2024-11-08,Carte,27,M,De SousaVille
+77499370,Dresser,Maison,166.5,4,666.0,2024-08-17,Carte,20,M,Menardnec
+20485046,Armer,Loisirs,89.21,4,356.84,2025-04-23,Carte,22,M,Saint Amélie-sur-Mer
+10766164,Coin,Maison,81.69,6,490.14,2024-12-18,Carte,40,F,Charles
+73755125,Acheter,Electronique,362.79,2,725.58,2025-01-06,Carte,43,M,Sainte Michelle
+79650639,Reprendre,Alimentation,140.45,2,280.9,2024-09-14,Espèces,38,M,Neveu
+7062585,Pied,Alimentation,144.55,2,289.1,2025-03-05,Carte,34,F,Hamel-la-Forêt
+24346201,Enfance,Alimentation,335.27,4,1341.08,2024-08-22,Carte,36,F,Bertinboeuf
+75636877,Noir,Loisirs,12.83,1,12.83,2025-05-13,Carte,24,F,GodardBourg
+41716829,Profiter,Vêtements,244.17,6,1465.02,2024-12-23,Carte,37,M,Dupuis
+27793761,Certain,Alimentation,210.99,4,843.96,2025-02-20,Carte,32,M,Lemonnier
+37053220,Même,Loisirs,91.87,3,275.61,2025-02-27,Espèces,45,M,Jean
+79827893,Article,Loisirs,466.5,1,466.5,2024-10-18,Carte,35,M,Robertnec
+3435129,Poésie,Alimentation,96.71,2,193.42,2025-04-18,Espèces,18,F,Sainte Paulette
+2657144,Réflexion,Alimentation,290.42,3,871.26,2024-09-30,Carte,32,M,Dupuis
+24640925,Former,Vêtements,399.88,3,1199.64,2025-01-30,Espèces,47,F,Sainte Matthieudan
+83387334,Souffrir,Vêtements,494.32,3,1482.96,2024-10-09,Carte,26,M,Bergernec
+96842969,Petit,Maison,128.59,2,257.18,2025-02-28,Espèces,48,M,Raynaud-sur-Bernard
+82918653,Envelopper,Vêtements,119.87,4,479.48,2025-01-22,Carte,51,M,Thibault
+23365203,Sauver,Electronique,368.44,2,736.88,2025-02-05,PayPal,36,F,Chartierdan
+73920701,Tandis que,Maison,297.02,1,297.02,2024-06-21,Carte,40,F,Neveudan
+22683252,Dernier,Electronique,369.3,2,738.6,2024-06-17,Carte,38,M,Le RouxBourg
+94249657,Tant,Alimentation,240.47,3,721.41,2024-10-23,Carte,36,M,Bouvier
+11995564,Plaine,Vêtements,257.74,4,1030.96,2024-11-16,Carte,50,M,Aubry-sur-Chartier
+24310328,Déchirer,Alimentation,142.84,1,142.84,2025-02-07,Carte,33,F,Sainte LucasVille
+70265454,Femme,Electronique,26.04,2,52.08,2024-07-22,Carte,30,F,Colin
+93115503,Poète,Loisirs,98.62,3,295.86,2025-06-02,Carte,18,M,Munoz
+56184505,Voyage,Maison,199.09,3,597.27,2024-09-12,Carte,23,F,Saint Maryse-les-Bains
+95749109,Ajouter,Maison,418.36,8,3346.88,2024-12-01,Carte,41,M,Bonneauboeuf
+18472113,Tellement,Electronique,621.44,2,1242.88,2024-06-26,Carte,28,M,Alves-sur-Chartier
+4974266,Répandre,Vêtements,150.42,4,601.68,2024-07-08,PayPal,18,M,Pineauboeuf
+81862086,Sombre,Alimentation,340.86,2,681.72,2025-05-14,Carte,48,F,Bazin
+41374648,Quelque,Vêtements,456.9,4,1827.6,2025-06-13,PayPal,51,M,Saint Thibault
+21756748,Signe,Alimentation,354.59,3,1063.77,2025-06-04,Carte,28,M,HoarauBourg
+80831330,Changement,Vêtements,425.52,2,851.04,2024-11-10,Carte,43,F,Legrandboeuf
+4526587,Étranger,Loisirs,96.94,8,775.52,2024-12-25,Carte,30,M,Moulinboeuf
+37772360,Société,Alimentation,140.11,3,420.33,2025-03-27,PayPal,30,M,ValletBourg
+36643685,Miser,Vêtements,127.1,2,254.2,2025-05-20,Carte,37,M,Ledoux
+5394977,Famille,Electronique,225.99,3,677.97,2025-01-25,Espèces,42,M,Bouvet-sur-Roux
+19485034,Croiser,Electronique,165.24,1,165.24,2025-02-08,Carte,42,M,Mendès
+43585320,Connaissance,Maison,151.06,4,604.24,2024-09-03,Carte,39,M,DelmasVille
+58009535,Désigner,Electronique,144.58,2,289.16,2024-09-08,Carte,37,M,Saint Marguerite
+39911763,Principe,Vêtements,62.88,1,62.88,2024-06-18,Carte,37,M,Moreau
+9721091,Lentement,Alimentation,219.75,1,219.75,2024-07-03,Carte,18,M,Moreau
+40066297,Préparer,Electronique,18.76,3,56.28,2024-08-14,PayPal,22,F,Devaux
+90411743,Classe,Alimentation,330.23,3,990.69,2025-03-27,Carte,41,M,Boutin
+49713875,Papier,Electronique,586.64,2,1173.28,2024-07-05,Carte,35,F,Perret
+41295498,Par,Electronique,735.57,1,735.57,2025-03-12,Carte,36,F,Sainte Denis
+12311647,Printemps,Alimentation,432.42,4,1729.68,2024-08-23,Carte,37,M,Hamelnec
+41461054,Image,Alimentation,151.7,1,151.7,2024-11-07,Carte,48,M,Sanchezboeuf
+7945882,Forcer,Maison,123.84,2,247.68,2025-02-09,Carte,31,M,Leblancboeuf
+23081186,Saint,Alimentation,231.67,4,926.68,2024-08-07,PayPal,24,F,Saint Hortensenec
+56665637,Ensuite,Maison,373.86,2,747.72,2025-03-17,Carte,37,M,Le Goff
+76881821,Habiller,Vêtements,403.83,1,403.83,2025-01-02,Carte,37,M,Saint AgnèsBourg
+13714863,Gris,Loisirs,285.02,2,570.04,2025-04-19,Carte,32,F,Delahaye
+78915773,Cent,Maison,195.38,1,195.38,2025-01-30,Carte,29,M,Wagner
+10847896,Malheur,Alimentation,468.87,2,937.74,2024-09-14,Carte,37,M,Rousseauboeuf
+75639459,Appeler,Alimentation,485.72,1,485.72,2025-05-27,PayPal,30,M,Hernandezdan
+69030919,Aucun,Vêtements,387.92,3,1163.76,2024-11-06,Carte,40,M,Ribeiro-les-Bains
+6861524,Grâce,Vêtements,277.58,4,1110.32,2025-02-15,PayPal,33,M,Martins-sur-Renault
+34549493,Troubler,Maison,481.32,3,1443.96,2025-04-30,Carte,32,M,BonninVille
+185663,Nul,Alimentation,330.79,4,1323.16,2025-01-16,Carte,39,M,Pottier
+99151912,Ouvert,Loisirs,82.36,2,164.72,2025-06-10,Carte,18,F,Carlier-sur-Regnier
+90119543,Miser,Alimentation,119.53,4,478.12,2025-05-30,PayPal,26,F,RodriguezBourg
+41281734,Jeu,Electronique,352.47,3,1057.41,2025-03-21,Carte,23,F,Renault
+49682316,Précipiter,Vêtements,377.44,2,754.88,2024-08-20,Carte,30,M,Bernard
+42127059,Désormais,Maison,330.74,2,661.48,2024-11-12,Carte,48,F,Saint Dorothée-sur-Mer
+27891227,Objet,Vêtements,192.63,3,577.89,2024-08-15,Carte,19,F,Saint Susanne
+78697775,Ciel,Electronique,676.92,2,1353.84,2025-02-25,Carte,30,M,Grégoire-les-Bains
+30504771,Étranger,Electronique,12.24,1,12.24,2024-09-06,Carte,23,M,Buisson-sur-Roger
+48145783,Pouvoir,Maison,411.11,6,2466.66,2024-12-11,PayPal,27,M,Saint Michellenec
+41947347,Il,Maison,136.63,3,409.89,2024-09-22,Espèces,18,M,Riou
+38409383,Expression,Electronique,56.28,1,56.28,2025-06-10,Carte,21,M,Michaud
+52700083,Résistance,Vêtements,211.51,4,846.04,2024-08-11,Carte,18,F,Fleury
+88622585,Signer,Alimentation,346.75,2,693.5,2025-03-02,Carte,54,M,Sainte Claude
+67029922,Preuve,Alimentation,303.21,2,606.42,2024-08-09,Carte,41,F,Blanc
+40309072,Gauche,Vêtements,135.94,2,271.88,2025-05-03,Espèces,29,F,Delorme
+66203040,Charge,Vêtements,30.06,3,90.18,2025-03-17,Carte,28,M,Arnaud
+46579115,Frais,Alimentation,185.24,4,740.96,2025-01-02,PayPal,45,F,Saint Camille
+93596221,Noir,Electronique,534.26,3,1602.78,2024-10-05,Espèces,35,M,De Oliveira-sur-Mer
+86228004,Société,Electronique,312.3,3,936.9,2024-10-27,Espèces,23,M,Sainte Benoîtnec
+12708685,Fête,Electronique,614.36,1,614.36,2024-08-15,Carte,20,M,Torres-sur-Rodrigues
+53673451,Sou,Vêtements,333.08,4,1332.32,2025-04-09,Carte,43,M,Leclercq
+51454470,Passé,Vêtements,200.31,2,400.62,2024-06-29,Carte,28,M,ToussaintBourg
+13419123,Trouver,Loisirs,275.97,1,275.97,2024-08-23,Carte,28,M,Durand-sur-Pires
+5661360,Public,Vêtements,341.45,1,341.45,2024-10-05,Espèces,18,F,Sainte Marysenec
+42576526,Installer,Electronique,732.21,4,2928.84,2024-09-03,Espèces,44,F,Costa
+23600084,Escalier,Electronique,178.27,3,534.81,2024-10-29,Carte,37,M,Marquesdan
+2258938,Pareil,Vêtements,57.27,2,114.54,2024-12-14,Carte,38,F,Jourdan-sur-Arnaud
+97881607,Sentir,Vêtements,337.28,1,337.28,2025-05-22,PayPal,34,F,Pages
+36657344,Bientôt,Electronique,133.04,3,399.12,2025-03-13,Carte,30,F,Berthelot
+40320584,Rideau,Maison,148.27,2,296.54,2024-12-19,Espèces,18,F,Saint Véronique
+82180741,Intérêt,Alimentation,252.85,4,1011.4,2025-03-21,Carte,18,F,Guillon
+56315761,Particulier,Alimentation,412.52,3,1237.56,2024-10-13,Carte,40,M,Sainte SophieVille
+69711610,Armée,Vêtements,248.65,4,994.6,2024-09-10,Carte,59,M,Boutinnec
+37119909,Goût,Maison,130.25,4,521.0,2025-02-24,Carte,33,M,Brunet
+21060431,Libre,Loisirs,71.86,3,215.58,2025-05-28,Carte,32,F,Saint Alphonse
+22892283,Eh,Alimentation,342.85,4,1371.4,2025-06-10,Carte,24,M,Rivière
+4367066,Lors,Vêtements,471.82,1,471.82,2025-04-27,Carte,31,F,Joubertnec
+13430253,Réponse,Electronique,52.0,4,208.0,2024-10-27,Carte,38,M,Bourgeois
+20160567,Savoir,Loisirs,95.81,1,95.81,2025-06-04,PayPal,28,M,MorenoBourg
+49593722,Second,Vêtements,11.77,4,47.08,2025-05-16,Espèces,34,F,Julien-sur-Lucas
+96422205,Rideau,Alimentation,363.51,2,727.02,2025-02-26,Carte,47,F,Saint Alexandrienec
+62746905,Prendre,Loisirs,29.96,4,119.84,2024-06-17,Carte,42,F,Martins
+67032527,Subir,Electronique,601.65,2,1203.3,2025-01-24,Carte,18,M,Fouquet-sur-Couturier
+22630988,Contre,Alimentation,150.21,2,300.42,2025-03-18,Espèces,43,F,Lacroix
+48013349,Dame,Alimentation,130.55,2,261.1,2024-12-18,Carte,30,M,Lacroix
+19718498,Droite,Alimentation,318.69,4,1274.76,2024-12-01,Carte,35,F,DevauxVille
+15353400,Pencher,Maison,68.05,2,136.1,2025-03-16,Carte,32,M,Moulin-les-Bains
+93193116,Hors,Maison,459.61,2,919.22,2024-07-30,Carte,37,M,Torres
+22873903,Falloir,Electronique,669.21,1,669.21,2025-04-18,Espèces,42,M,Sainte Alexandria
+19709288,Pourtant,Electronique,17.07,6,102.42,2024-12-25,Espèces,36,F,Barthelemy
+14789088,Lueur,Vêtements,334.8,1,334.8,2025-05-24,Carte,44,M,Sainte Hortensedan
+94354613,Miser,Electronique,241.32,3,723.96,2024-06-25,Carte,27,M,Leclercqboeuf
+63094953,Beau,Maison,234.59,3,703.77,2025-06-16,Carte,33,M,Barbe
+3173408,Inviter,Vêtements,337.89,2,675.78,2024-07-23,Carte,25,F,David
+58937945,Vaste,Alimentation,64.18,4,256.72,2024-10-25,Espèces,49,F,Langlois-sur-Mer
+73719865,Tel,Maison,252.48,2,504.96,2024-07-12,Carte,41,F,Gomes
+10919967,Chat,Vêtements,248.57,1,248.57,2024-11-07,Espèces,45,M,Sainte Laure
+50450041,Appartenir,Electronique,722.88,4,2891.52,2024-11-10,Carte,24,F,Saint Eugène
+45651969,Descendre,Alimentation,417.05,3,1251.15,2024-10-25,Carte,25,F,Loiseau
+63106886,Voisin,Electronique,481.05,3,1443.15,2025-05-04,PayPal,18,M,Aubry
+93321527,Genre,Alimentation,328.21,4,1312.84,2024-09-14,Espèces,36,F,Labbé
+40723814,En,Alimentation,366.46,4,1465.84,2024-09-20,Carte,45,M,Prévost
+37063999,Comme,Loisirs,267.21,1,267.21,2024-10-16,Carte,42,M,Gérard
+71674568,Noir,Maison,352.54,1,352.54,2024-08-29,PayPal,41,F,HenryVille
+889937,Espace,Vêtements,188.16,1,188.16,2025-01-21,Carte,36,M,Pelletier
+31054441,Essuyer,Alimentation,484.81,2,969.62,2024-07-11,Espèces,26,M,Gérard-sur-Mary
+30928755,Fidèle,Electronique,378.22,3,1134.66,2024-07-24,Carte,34,M,Berthelot-les-Bains
+97294893,Machine,Vêtements,62.0,4,248.0,2025-01-15,PayPal,26,M,JeanBourg
+24831126,Point,Vêtements,210.41,3,631.23,2024-11-07,Carte,57,F,Bourgeois-sur-Jourdan
+18553289,Masse,Electronique,361.98,3,1085.94,2024-07-12,Carte,26,F,BoulayVille
+34618304,Tantôt,Electronique,467.82,2,935.64,2025-04-19,Carte,29,F,Légerboeuf
+82699349,Chasse,Alimentation,436.6,3,1309.8,2025-03-23,Carte,26,F,Legendre
+64624917,Véritable,Alimentation,298.42,1,298.42,2024-10-03,Carte,24,M,Perrin-sur-Mer
+77067871,Rayon,Electronique,119.96,3,359.88,2025-04-24,Carte,39,M,Henry
+22224000,Un,Vêtements,253.73,2,507.46,2025-02-03,Carte,58,F,LangloisVille
+61107862,Autour,Alimentation,415.18,2,830.36,2025-05-25,Carte,40,M,Hervé
+71030493,Expliquer,Loisirs,166.21,2,332.42,2025-05-06,Espèces,24,M,JacobBourg
+25274551,Fait,Vêtements,260.56,3,781.68,2024-08-23,PayPal,38,F,François
+22063387,Terre,Vêtements,437.57,4,1750.28,2025-05-18,Espèces,30,M,FerreiraVille
+75596945,Vêtement,Electronique,334.1,4,1336.4,2024-06-29,Carte,33,F,Sainte Catherine
+19789278,Rang,Loisirs,418.51,6,2511.06,2024-12-26,Espèces,21,F,Saint Michelle
+50840220,Douze,Alimentation,179.79,1,179.79,2025-02-28,Carte,18,M,Hamel
+72507508,Inspirer,Electronique,650.72,3,1952.16,2024-06-29,Carte,19,M,Perrier-les-Bains
+39822280,Asseoir,Alimentation,287.95,1,287.95,2025-06-16,Espèces,39,M,Nicolas-sur-Jean
+5138203,Accorder,Maison,273.78,2,547.56,2025-03-21,Carte,40,M,Philippe-sur-Lebreton
+95124417,Contenir,Electronique,144.46,4,577.84,2024-07-26,Carte,18,F,Hoareau-sur-Mer
+31053180,Cours,Loisirs,442.36,4,1769.44,2024-08-14,Espèces,49,M,Sainte Thomas
+98035216,Endroit,Vêtements,35.71,1,35.71,2025-01-27,Carte,37,M,Marques
+26693838,Pouvoir,Electronique,91.8,3,275.4,2024-08-05,Carte,35,M,LopezBourg
+49661103,Rocher,Electronique,409.4,1,409.4,2024-11-06,Carte,44,F,Saint Margaux
+65103108,Maison,Vêtements,468.78,1,468.78,2024-06-23,Carte,18,M,Saint Adrien-sur-Mer
+27494462,Feuille,Vêtements,126.69,1,126.69,2025-02-02,Carte,46,M,Lamy-les-Bains
+7523641,Lien,Loisirs,50.11,4,200.44,2025-04-22,Carte,44,M,Humbertdan
+93584514,Action,Alimentation,322.7,3,968.1,2024-11-19,Espèces,52,F,Lemaire
+9799190,Seconde,Electronique,741.5,4,2966.0,2025-02-23,PayPal,24,F,De Oliveira
+54570321,Où,Alimentation,161.11,2,322.22,2025-04-07,Carte,22,F,Pelletier-sur-Mer
+6196506,Étranger,Electronique,254.0,4,1016.0,2024-07-13,Carte,40,M,Laporte
+1433169,Quinze,Vêtements,392.3,6,2353.8,2024-12-31,Carte,36,F,Lefort
+76160295,Difficile,Vêtements,317.21,3,951.63,2024-10-17,PayPal,35,M,Saint Zoé
+73757831,Venir,Maison,170.43,3,511.29,2025-03-08,Carte,27,F,Grondin
+9493182,Croix,Electronique,142.06,1,142.06,2025-02-16,Carte,48,M,Lombard-sur-Samson
+45885919,Cesser,Vêtements,276.55,1,276.55,2024-11-15,Carte,28,F,Saint Charles
+70073257,Moyen,Maison,497.07,4,1988.28,2025-05-30,Carte,36,F,Auger
+56984713,Entrer,Maison,453.99,1,453.99,2025-04-05,Carte,21,F,Sainte Lucienec
+92191017,Retour,Alimentation,296.56,1,296.56,2025-04-18,Carte,24,F,Sainte Margauxboeuf
+70863441,Revoir,Electronique,357.76,3,1073.28,2024-08-06,Carte,29,F,Pages
+45864627,Million,Electronique,526.76,3,1580.28,2024-07-19,Carte,42,F,Vasseur
+55078258,Ensuite,Maison,368.84,4,1475.36,2025-01-03,Carte,18,F,Sainte DanielVille
+34304242,Circonstance,Electronique,522.81,2,1045.62,2025-06-05,Carte,28,M,Fournier-les-Bains
+54643650,Intérieur,Vêtements,146.38,2,292.76,2024-11-08,Carte,28,M,Gonzalez-sur-Lopez
+62297302,Passage,Alimentation,35.15,3,105.45,2024-11-04,Carte,31,F,Mathieu-sur-Aubert
+90271279,Nerveux,Vêtements,263.08,2,526.16,2025-03-20,Carte,34,M,Saint Océaneboeuf
+72577007,Monde,Alimentation,161.46,2,322.92,2024-12-22,Espèces,18,M,Andre
+55142036,Dos,Alimentation,456.96,1,456.96,2025-04-10,Carte,31,F,Thierry-sur-Marty
+56997513,Apparence,Vêtements,220.82,1,220.82,2024-06-29,Carte,30,M,Clerc
+84041135,Ami,Alimentation,45.38,3,136.14,2025-03-25,Espèces,42,F,PascalBourg
+20637992,Payer,Electronique,275.08,3,825.24,2025-05-14,Carte,44,F,Sainte Marianne
+65585108,Après,Alimentation,400.33,4,1601.32,2024-08-12,Carte,41,F,Blanc
+25652001,Ensuite,Alimentation,404.82,3,1214.46,2025-05-24,Carte,18,F,Maréchal
+67960346,Toi,Loisirs,361.48,3,1084.44,2024-09-02,Carte,20,M,ReynaudVille
+68289896,Dehors,Electronique,8.19,2,16.38,2024-12-18,Carte,45,F,Leduc-sur-Lévêque
+91082602,Épais,Vêtements,339.07,2,678.14,2024-10-09,PayPal,35,F,Guillon-les-Bains
+92449546,Fidèle,Loisirs,312.08,4,1248.32,2024-09-13,Carte,29,F,Sainte Agathe
+48503404,Loi,Vêtements,392.04,3,1176.12,2024-07-05,Carte,30,M,Guyon
+83409500,Fleur,Electronique,724.17,2,1448.34,2025-05-24,Carte,25,M,Gautier-les-Bains
+61782509,Intéresser,Vêtements,159.53,4,638.12,2024-12-29,Carte,45,M,Sainte Henri
+28891978,Recherche,Electronique,396.14,2,792.28,2024-11-19,Espèces,20,F,Sainte Christophe
+67458409,Fou,Vêtements,376.88,3,1130.64,2024-07-30,Espèces,39,F,Buisson-sur-Georges
+3778857,Genre,Electronique,592.58,4,2370.32,2025-05-20,Carte,25,M,Guilbert
+96183941,Autour,Electronique,242.83,4,971.32,2025-03-21,Carte,42,F,Saint Corinne
+12999304,Route,Maison,140.48,2,280.96,2025-06-15,Carte,35,F,Gillet
+20257437,Personnage,Alimentation,169.15,1,169.15,2024-09-27,Carte,27,M,Olivier-sur-Launay
+97921248,Souvenir,Electronique,139.02,1,139.02,2025-01-19,Carte,27,F,Lemaître
+8277774,Dent,Vêtements,332.85,2,665.7,2024-08-30,PayPal,31,F,Huet-sur-Aubry
+48628224,Particulier,Maison,493.35,1,493.35,2024-07-13,Espèces,41,F,Deschamps
+78766004,Foi,Electronique,655.74,2,1311.48,2024-09-26,Carte,34,M,Collet
+85246192,Monde,Maison,339.94,1,339.94,2025-04-19,Carte,34,F,Marques
+37105226,Battre,Vêtements,304.13,3,912.39,2024-09-05,Espèces,33,F,Saint Denise
+68972512,Habitude,Alimentation,461.49,3,1384.47,2025-04-07,Espèces,41,F,Sainte Sébastien
+61968574,Inviter,Electronique,310.27,2,620.54,2024-07-17,Carte,32,F,Delahaye-la-Forêt
+48428452,Sueur,Electronique,523.68,2,1047.36,2024-09-30,PayPal,29,M,Blanchard
+41623596,Tout,Maison,199.6,4,798.4,2025-05-27,PayPal,34,M,Descamps
+70970986,Y,Electronique,399.21,2,798.42,2024-12-26,Carte,36,M,Lombardnec
+7978895,Signe,Maison,255.23,1,255.23,2024-08-17,Carte,33,F,Hubert
+64712761,Avec,Vêtements,435.24,4,1740.96,2024-12-06,Carte,28,M,Barbe
+22957487,Mince,Maison,101.88,4,407.52,2024-08-14,Espèces,26,M,Gaudin-les-Bains
+8494975,Dimanche,Electronique,698.64,3,2095.92,2025-04-17,Carte,39,F,ThierryBourg
+15176882,Verser,Loisirs,220.45,4,881.8,2025-04-13,Carte,46,F,Thibault-les-Bains
+75708168,Servir,Maison,57.18,3,171.54,2025-01-05,PayPal,18,F,Pereira
+8500040,Neuf,Alimentation,88.07,2,176.14,2024-06-20,Espèces,38,M,Allaindan
+96117888,Type,Alimentation,157.31,2,314.62,2024-12-05,Carte,41,M,LebonVille
+12847860,Rencontrer,Alimentation,360.77,1,360.77,2025-03-06,Espèces,42,M,Dumas-sur-Mer
+87610784,Dame,Alimentation,45.18,2,90.36,2025-03-17,Carte,26,M,ParisBourg
+73500780,Nuit,Alimentation,256.9,6,1541.4,2024-12-05,Espèces,34,F,Gomesdan
+77876653,Certainement,Electronique,607.48,2,1214.96,2025-05-04,PayPal,35,F,Michel
+42252932,Léger,Electronique,407.26,2,814.52,2025-01-06,Carte,30,F,Sainte Yves
+82791910,Naturellement,Maison,166.31,4,665.24,2024-12-13,Carte,41,F,Bourgeois
+12706742,Garde,Vêtements,414.62,2,829.24,2024-07-08,PayPal,21,M,Leclerc
+99485046,Ramener,Electronique,173.76,2,347.52,2025-05-24,Carte,36,F,Saint Laurent
+81891062,Sans,Loisirs,249.01,1,249.01,2025-03-04,Carte,30,F,Lebreton-sur-Mer
+80010949,Pas,Loisirs,160.74,3,482.22,2024-08-18,Carte,44,F,Boulay
+33834471,Amuser,Electronique,478.92,6,2873.52,2024-12-10,Carte,52,M,Collin-sur-Pelletier
+45545219,Trente,Vêtements,244.01,2,488.02,2024-06-25,Carte,33,F,Sainte Denise-la-Forêt
+52253813,Soirée,Loisirs,455.06,1,455.06,2024-07-03,Espèces,35,F,Roussel
+41393472,Cacher,Maison,476.5,2,953.0,2024-09-12,Carte,37,M,Sainte Éléonore
+4025179,Tempête,Alimentation,87.95,1,87.95,2025-02-09,Carte,39,M,Morenodan
+96841639,Suffire,Alimentation,63.52,2,127.04,2024-09-29,Carte,45,M,Grenier-sur-Pelletier
+96641417,Résister,Vêtements,24.71,2,49.42,2024-09-30,Carte,44,F,Michel
+57803376,En,Electronique,531.67,2,1063.34,2025-02-22,Espèces,45,M,Navarro-sur-Schmitt
+3793576,Quart,Loisirs,193.9,2,387.8,2024-07-01,Carte,41,F,Costa-sur-Mer
+85745032,Robe,Vêtements,267.9,6,1607.4,2024-12-29,Espèces,48,F,Ruiz-sur-Fischer
+64652626,Perdu,Maison,39.17,1,39.17,2025-05-23,Carte,40,F,Verdier
+74179286,Ami,Maison,345.96,1,345.96,2025-04-18,Carte,37,M,Pages
+22059668,Dehors,Electronique,183.82,2,367.64,2025-04-23,Carte,36,F,Guibert
+25403432,Lien,Maison,357.77,4,1431.08,2025-03-20,Carte,41,F,Raymond-les-Bains
+88110499,Droit,Electronique,89.07,3,267.21,2025-04-21,Carte,31,M,Legrand
+21077796,Avec,Alimentation,427.56,1,427.56,2025-05-31,Carte,21,M,Torres-sur-Marin
+85287823,Obéir,Vêtements,44.89,4,179.56,2025-05-29,Carte,19,F,Dupuis
+95245783,Sein,Vêtements,126.55,4,506.2,2024-08-16,Carte,37,F,Leleuboeuf
+40524439,Eaux,Electronique,724.64,4,2898.56,2025-02-23,Espèces,31,M,Bonnin-sur-Leblanc
+6100161,Roi,Electronique,658.38,2,1316.76,2024-07-15,Carte,19,F,Vallée-la-Forêt
+51368517,Pousser,Vêtements,189.18,1,189.18,2025-03-17,Carte,35,F,Sauvage-sur-Mer
+40602958,Tirer,Alimentation,31.98,1,31.98,2024-07-01,Carte,33,F,Massedan
+86719560,Maison,Electronique,559.84,4,2239.36,2024-06-16,Carte,24,F,Saint Marie
+27819614,Cinquante,Maison,99.22,1,99.22,2024-09-16,PayPal,43,F,Torres
+32037258,Voyager,Maison,406.84,3,1220.52,2025-05-06,Espèces,40,F,Weber
+70796631,Convenir,Maison,302.69,4,1210.76,2024-12-01,Espèces,39,F,Fleury
+84057138,Calmer,Maison,200.55,1,200.55,2025-04-30,Carte,33,F,Saint Mauricedan
+73721470,Avis,Vêtements,311.51,4,1246.04,2025-05-22,Carte,28,F,Carpentier-les-Bains
+38678806,Unique,Vêtements,106.01,3,318.03,2025-01-03,Carte,34,M,MercierVille
+10055827,Fil,Vêtements,200.91,2,401.82,2025-04-04,Carte,31,F,Gosselin-sur-Lebon
+51218564,Quelque,Maison,264.9,1,264.9,2025-04-24,Carte,46,F,Bourgeois
+18427748,Décrire,Vêtements,31.62,2,63.24,2025-01-04,PayPal,47,M,Briand-sur-Baron
+83885537,Fauteuil,Alimentation,420.35,4,1681.4,2024-09-17,Espèces,54,F,Muller
+92297908,Mode,Vêtements,158.16,4,632.64,2025-01-22,Carte,34,M,Schmitt-sur-Didier
+11217061,Près,Maison,64.09,4,256.36,2025-01-19,Espèces,19,M,Joseph
+98201916,Donner,Alimentation,294.04,4,1176.16,2025-05-11,Espèces,45,M,Beckerdan
+54401222,Amour,Maison,424.54,6,2547.24,2024-12-09,Carte,40,F,Foucher-les-Bains
+41256584,Jeune,Electronique,111.85,4,447.4,2024-12-29,Carte,42,M,Dupont-sur-Mer
+29912753,Également,Vêtements,282.07,4,1128.28,2025-04-04,PayPal,26,M,Raynaudnec
+73894028,Gloire,Alimentation,100.47,3,301.41,2024-08-04,Carte,45,M,Bazin-les-Bains
+96549463,Brusquement,Alimentation,65.04,2,130.08,2024-11-04,Espèces,28,M,Rodrigues
+55025517,À,Alimentation,357.33,1,357.33,2025-05-02,PayPal,34,F,Collet-sur-Mer
+39853515,Devoir,Loisirs,382.29,2,764.58,2024-07-24,Carte,33,M,Michel-la-Forêt
+81633803,Milieu,Electronique,310.36,2,620.72,2025-02-26,Carte,18,F,Perez-les-Bains
+22382868,Remplir,Electronique,605.34,4,2421.36,2025-01-09,Espèces,36,F,Paulboeuf
+68836435,Mener,Alimentation,403.53,4,1614.12,2024-10-26,Carte,18,F,Daviddan
+75037532,Herbe,Loisirs,253.67,1,253.67,2025-05-07,Espèces,36,M,Lecoq
+74917769,Taire,Maison,25.26,2,50.52,2025-01-28,Carte,36,F,Bigot-sur-Weiss
+8120973,Relation,Vêtements,47.27,4,189.08,2024-10-04,Carte,29,F,Noël
+70425107,Toi,Vêtements,392.59,4,1570.36,2025-04-03,Carte,26,F,Pruvost
+17034905,Briller,Electronique,152.25,2,304.5,2025-02-13,Espèces,36,F,Sainte Timothée-la-Forêt
+45014145,Peur,Maison,204.14,4,816.56,2025-05-15,Espèces,34,M,Diallo
+51925644,Parler,Electronique,332.64,1,332.64,2024-11-24,Carte,32,F,Hoareau
+39330579,Ventre,Maison,176.37,2,352.74,2025-01-20,Carte,26,M,Blin-la-Forêt
+82511778,Haut,Electronique,279.86,2,559.72,2025-02-04,Carte,42,M,Leblanc-sur-Coste
+57088263,Droit,Vêtements,424.85,2,849.7,2025-03-30,Carte,62,F,Sainte Anastasie
+9044348,Ordre,Maison,144.55,1,144.55,2024-06-27,Carte,25,M,MasseVille
+96056487,Près,Vêtements,86.48,2,172.96,2025-03-15,Carte,33,M,Blanchard
+89086559,Désormais,Maison,281.81,4,1127.24,2024-12-28,Espèces,37,F,Jacquet-sur-Lejeune
+89504751,Saint,Maison,348.98,3,1046.94,2024-11-27,Carte,38,F,De Sousa
+94096537,Voie,Alimentation,67.43,4,269.72,2024-10-02,Espèces,30,F,Delorme
+43710965,Notre,Electronique,541.53,1,541.53,2025-02-08,Carte,39,M,Hervé
+85362358,Retenir,Electronique,682.3,4,2729.2,2024-08-15,Carte,44,M,Albert
+90917613,Rapporter,Vêtements,108.47,4,433.88,2025-05-26,Carte,20,M,Deschamps-sur-Colin
+64112729,Me,Vêtements,236.94,2,473.88,2024-12-31,Carte,31,F,Grenier-les-Bains
+90906597,Céder,Vêtements,492.97,4,1971.88,2024-08-20,Carte,39,M,Pineau-sur-Cousin
+94662166,Réfléchir,Electronique,338.52,1,338.52,2024-06-21,Carte,35,M,Blanc-la-Forêt
+48403085,Respect,Alimentation,312.49,3,937.47,2025-04-25,Carte,29,F,Sainte Margot
+66026133,Science,Maison,470.96,4,1883.84,2024-10-27,Espèces,33,F,Letelliernec
+45290986,Situation,Electronique,473.4,1,473.4,2025-03-04,PayPal,26,M,Martinez-les-Bains
+7797042,Travail,Maison,370.58,1,370.58,2024-06-29,Carte,27,F,Schmitt
+16986822,Fixer,Loisirs,28.26,4,113.04,2025-01-06,PayPal,28,M,Saint Victoire
+59611685,Désigner,Maison,220.09,1,220.09,2025-03-09,Espèces,37,F,Bonnet
+46287136,Repousser,Electronique,447.84,1,447.84,2024-08-27,Carte,51,M,Ramosboeuf
+43791494,Police,Alimentation,118.02,4,472.08,2025-06-07,Carte,26,F,Gomez
+27966576,Et,Electronique,715.8,4,2863.2,2024-07-07,Carte,20,F,Sainte Margaudboeuf
+7727862,Beaucoup,Electronique,451.36,2,902.72,2025-06-16,Espèces,32,F,Adam
+40673175,Porter,Electronique,700.98,4,2803.92,2025-04-20,Carte,30,M,Perret
+63199468,Disparaître,Vêtements,489.62,3,1468.86,2025-05-30,Carte,33,M,Besnard
+15999768,Veille,Vêtements,360.09,3,1080.27,2024-10-03,Carte,46,F,Sainte Michèle
+59096223,Famille,Vêtements,483.52,2,967.04,2024-08-22,Carte,25,M,RodriguesBourg
+63637974,Fatiguer,Alimentation,437.64,2,875.28,2024-06-24,Espèces,33,F,Delattrenec
+42985767,Pointe,Electronique,729.09,1,729.09,2025-06-15,Carte,47,F,Sainte Daniel
+41883633,Poser,Alimentation,91.96,4,367.84,2024-11-20,Carte,35,F,Martin
+86322561,Inutile,Vêtements,117.6,4,470.4,2024-09-08,Carte,46,M,Delmasboeuf
+73318475,Que,Vêtements,167.97,3,503.91,2024-11-20,Espèces,30,F,Gimenez
+14368856,Prince,Alimentation,491.94,3,1475.82,2025-06-16,Carte,47,M,Salmon
+39668757,Présent,Electronique,21.94,2,43.88,2024-06-27,Carte,41,F,Lelièvre-sur-Mer
+88359922,Nuage,Vêtements,18.42,4,73.68,2024-08-04,Carte,37,F,Gonzalez
+83654364,Femme,Maison,493.41,4,1973.64,2024-11-13,Carte,26,F,Roussel
+7570802,Précéder,Maison,171.23,1,171.23,2024-11-21,PayPal,35,F,Morin
+31713097,Cause,Electronique,358.14,3,1074.42,2024-10-18,Carte,28,M,Lévêque
+61329172,Moins,Vêtements,499.4,3,1498.2,2024-08-28,Espèces,24,F,Lesage
+24025805,Même,Vêtements,36.63,4,146.52,2025-02-08,Carte,18,M,Sainte Louisedan
+41734933,Minute,Vêtements,483.45,3,1450.35,2024-07-16,Carte,26,F,Martin
+82175427,Valoir,Alimentation,469.13,8,3753.04,2024-12-06,Carte,22,M,Leroy
+89739151,Croix,Loisirs,271.08,1,271.08,2024-10-20,Carte,54,F,Dos SantosBourg
+3158786,Comme,Electronique,651.38,2,1302.76,2024-07-02,Carte,38,F,Saint Benoît
+71230336,Remplacer,Vêtements,88.74,4,354.96,2024-12-29,Carte,34,M,Gallet-sur-Boulanger
+7994228,Simple,Electronique,74.74,3,224.22,2024-09-19,Carte,33,M,Pons
+17770077,Branche,Maison,89.38,1,89.38,2025-05-11,Espèces,34,F,Gauthier
+62461835,Lire,Maison,172.3,4,689.2,2024-07-02,Carte,33,M,Lecomte
+78116448,Craindre,Vêtements,134.12,3,402.36,2024-10-22,Carte,35,F,Maillet
+48871700,Cri,Electronique,532.41,3,1597.23,2025-01-23,Carte,21,F,Gaudin
+44062826,Quelqu'un,Maison,293.64,2,587.28,2024-11-30,Carte,25,M,Saint Frédéric
+21974504,Souffrance,Alimentation,360.49,4,1441.96,2024-11-10,PayPal,32,F,Sainte BenjaminVille
+87568878,Nuage,Electronique,265.94,4,1063.76,2025-02-05,Espèces,42,M,Verdier
+17086765,Bruit,Electronique,205.58,4,822.32,2024-06-26,Espèces,31,M,Sainte Élise
+62045356,Queue,Electronique,294.32,1,294.32,2025-04-30,Espèces,35,F,Munoz-la-Forêt
+77268332,Vol,Vêtements,322.31,1,322.31,2024-09-05,Carte,50,F,Joly
+41804146,Livrer,Alimentation,305.63,3,916.89,2024-09-22,Carte,34,F,Guillot
+52947533,Assez,Electronique,301.09,3,903.27,2024-10-15,Carte,32,F,Techer
+70532025,Étrange,Vêtements,112.71,2,225.42,2025-05-28,Carte,19,M,Devaux
+59951426,Environ,Maison,49.34,4,197.36,2024-10-25,Carte,34,M,Richard-sur-Lebrun
+86700761,Représenter,Vêtements,353.5,3,1060.5,2025-03-26,Carte,32,M,Jacob
+67265580,Tel,Vêtements,359.72,3,1079.16,2024-07-22,Carte,45,F,JoubertBourg
+42861230,Discussion,Maison,429.87,2,859.74,2025-06-05,Carte,24,M,Robert
+59977865,Risquer,Alimentation,496.51,1,496.51,2025-01-17,Carte,39,M,Buisson
+20787753,Regretter,Alimentation,384.29,3,1152.87,2025-03-02,Carte,37,F,Richard
+1849891,Oncle,Loisirs,426.64,1,426.64,2025-01-06,Carte,37,F,Lejeunedan
+28994305,Beaux,Alimentation,457.97,1,457.97,2024-09-02,Carte,53,M,Sainte Agathe
+49571353,Poursuivre,Electronique,392.33,2,784.66,2024-11-16,Espèces,18,F,Brunet
+53802540,Endroit,Alimentation,261.78,4,1047.12,2025-06-11,Carte,18,F,Martel-sur-Mer
+14653573,Secrétaire,Electronique,491.97,2,983.94,2025-02-19,Carte,30,F,Da Silva
+24342215,Papa,Electronique,696.34,3,2089.02,2025-01-07,Carte,44,M,Leleuboeuf
+93726200,Il,Maison,316.06,3,948.18,2024-07-29,Carte,20,F,Loiseau-sur-Camus
+49542085,Douceur,Alimentation,324.97,2,649.94,2024-07-10,Espèces,42,M,Saint Susanne
+79856285,Supporter,Maison,252.1,8,2016.8,2024-12-27,Carte,29,M,Léger
+24523061,Attirer,Alimentation,398.53,1,398.53,2024-07-19,Carte,31,F,Sainte Audrey
+96282123,Soumettre,Alimentation,137.24,1,137.24,2024-10-15,Carte,61,F,Fleury
+40304625,Réussir,Maison,314.9,3,944.7,2024-06-28,Carte,22,M,Le Gall
+99495364,Couche,Maison,71.1,1,71.1,2024-07-05,PayPal,40,F,Pierre-les-Bains
+54443644,Ordre,Maison,356.62,3,1069.86,2025-01-06,Carte,32,F,Costenec
+1750809,Autre,Maison,303.43,3,910.29,2025-06-05,Carte,22,F,Sainte JulienVille
+52961413,Commun,Alimentation,419.01,6,2514.06,2024-12-07,Carte,42,F,LambertBourg
+47498008,Fenêtre,Vêtements,131.27,1,131.27,2025-03-02,PayPal,38,M,Martins-la-Forêt
+56471729,Soleil,Electronique,276.51,2,553.02,2025-02-18,Carte,47,F,PetitVille
+56133352,Effet,Vêtements,393.21,3,1179.63,2024-09-20,Carte,38,M,Rolland
+47774156,Ramener,Vêtements,37.7,2,75.4,2024-08-14,PayPal,40,F,DuvalBourg
+63815765,Docteur,Vêtements,33.26,1,33.26,2024-07-01,Carte,42,F,Guillaume-sur-Bailly
+52437098,Moyen,Electronique,451.28,4,1805.12,2025-04-20,Espèces,46,F,Leclercq
+47754589,Besoin,Vêtements,288.52,2,577.04,2025-03-21,Espèces,34,F,Grondin
+95875520,Sentir,Electronique,416.29,4,1665.16,2024-09-12,Carte,42,M,Légerdan
+72744282,Préférer,Alimentation,259.44,2,518.88,2025-01-14,Carte,21,M,Gillet-sur-Mer
+66431931,Tout,Vêtements,50.22,2,100.44,2025-04-23,Espèces,41,M,Joly
+92521790,Oreille,Vêtements,474.16,1,474.16,2024-07-31,Espèces,38,M,Brun-sur-Hamon
+28459361,Souvenir,Electronique,432.78,2,865.56,2024-11-23,PayPal,18,F,Jacob
+61050016,Mur,Loisirs,223.17,1,223.17,2024-08-15,Carte,38,F,Bigotdan
+98979426,Mouvement,Alimentation,339.24,3,1017.72,2024-08-07,Carte,44,M,Julien
+20887263,Social,Maison,311.78,3,935.34,2024-08-06,Carte,24,M,Sainte Raymond
+23482192,Pousser,Electronique,611.04,1,611.04,2024-09-04,Carte,45,F,Guillet-sur-Paul
+23321908,Proposer,Vêtements,475.4,4,1901.6,2025-04-13,Carte,40,M,Masseboeuf
+54587998,Vue,Loisirs,21.54,2,43.08,2024-06-23,Carte,41,M,WeberVille
+4667360,Arracher,Alimentation,28.8,1,28.8,2025-04-06,Carte,41,M,Pierre
+40484047,Recommencer,Maison,252.81,4,1011.24,2025-05-23,Carte,26,F,PaulVille
+69822189,Désirer,Alimentation,178.63,1,178.63,2025-02-12,Espèces,43,M,Boutin
+91390844,Amour,Vêtements,205.71,2,411.42,2024-10-16,Carte,18,F,Letellier-les-Bains
+88010837,Terrain,Electronique,710.86,2,1421.72,2025-04-11,PayPal,32,M,Saint Suzannenec
+49299239,Appartenir,Loisirs,229.18,8,1833.44,2024-12-08,Carte,18,M,Carre
+59628580,Joli,Maison,171.16,6,1026.96,2024-12-15,Carte,53,M,Sainte Suzanne
+8893902,Remplir,Maison,74.98,2,149.96,2024-09-24,Carte,42,F,Ribeiro
+81256099,Traverser,Electronique,183.36,2,366.72,2025-04-26,Carte,39,F,Leleu
+4968919,Ni,Vêtements,340.18,4,1360.72,2025-02-17,Carte,32,F,Barbe
+20813015,Peu,Electronique,322.91,1,322.91,2024-11-29,Carte,22,F,Pages-la-Forêt
