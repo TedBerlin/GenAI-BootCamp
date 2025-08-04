@@ -3,7 +3,7 @@
 Ce dépôt contient le rapport final d’une méta-analyse de **4 papiers récents** sur l’utilisation des grands modèles de langage (LLMs) pour automatiser ou améliorer les processus de revue et de méta-analyse scientifique.
 
 ## Rapport
-- [meta_analysis_llms.pdf](./meta_analysis_llms.pdf) – Rapport complet 
+- [meta_analysis_llms.pdf](https://github.com/TedBerlin/GenAI-BootCamp/blob/main/Overview/Week8/Day5/XP/meta_analysis_llms.pdf) – Rapport complet 
 
 ## Papers analysés
 | Titre | Venue | Lien |
