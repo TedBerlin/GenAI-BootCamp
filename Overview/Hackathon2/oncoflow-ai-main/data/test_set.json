@@ -1,0 +1,14 @@
+[
+  {
+    "query": "What are the main contributions of the paper?",
+    "corpus_passages": [
+      "This paper introduces a new optimization algorithm called AlgoX.",
+      "We evaluate AlgoX on CIFAR-10 and ImageNet.",
+      "Unrelated: a paragraph about gardening.",
+      "Contributions: (1) a new optimizer, (2) convergence proof, (3) strong empirical results."
+    ],
+    "relevant_ids": [0, 3],
+    "reference_summary": "The paper proposes AlgoX, proves convergence and shows strong empirical results."
+  }
+]
+

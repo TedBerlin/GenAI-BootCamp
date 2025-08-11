@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+numpy
+pandas
+sacrebleu
+rouge-score
+spacy
